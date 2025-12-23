@@ -73,9 +73,7 @@ The AI Orchestrator is a **17-24 week self-paced bootcamp** designed specificall
 </td>
 <td width="30%" align="center">
 
-<div style="background-color: #FFFFFF; display: inline-block; padding: 10px; border-radius: 8px;">
 <img src="assets/branding/stray-stencil.png" alt="StrayDog Mark" width="150">
-</div>
 
 *Building bridges across the Digital Cliff*
 
@@ -515,9 +513,7 @@ Attribution appreciated but not required.
 <tr>
 <td width="120" align="center">
 
-<div style="background-color: #FFFFFF; display: inline-block; padding: 8px; border-radius: 6px;">
 <img src="assets/branding/stray-stencil.png" alt="StrayDog" width="80">
-</div>
 
 </td>
 <td>
@@ -657,9 +653,7 @@ See [LICENSE](LICENSE) for complete terms.
 
 <br>
 
-<div style="background-color: #FFFFFF; display: inline-block; padding: 6px; border-radius: 4px;">
 <img src="assets/branding/stray-stencil.png" alt="StrayDog Mark" width="60">
-</div>
 
 <br>
 
