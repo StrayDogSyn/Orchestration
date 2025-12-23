@@ -106,11 +106,11 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 
 | Learner Type | Prerequisites | Status |
 |:-------------|:--------------|:------:|
-| Bootcamp Graduates | OOP, algorithms, Big O | ✓ **Perfect** |
-| Self-Taught Developers | Data structures, programming logic | ✓ **Excellent** |
-| Career Changers | CS fundamentals from any source | ✓ **Great** |
-| Justice-Impacted Individuals | Programming basics + determination | ♥ **Welcome** |
-| Complete Beginners | No programming experience | ✗ Learn basics first |
+| Bootcamp Graduates | OOP, algorithms, Big O | ![](https://img.shields.io/badge/-Perfect-00C851?style=flat) |
+| Self-Taught Developers | Data structures, programming logic | ![](https://img.shields.io/badge/-Excellent-00C851?style=flat) |
+| Career Changers | CS fundamentals from any source | ![](https://img.shields.io/badge/-Great-00C851?style=flat) |
+| Justice-Impacted Individuals | Programming basics + determination | ![](https://img.shields.io/badge/-Welcome-9b59b6?style=flat) |
+| Complete Beginners | No programming experience | ![](https://img.shields.io/badge/-Learn_Basics_First-FF4444?style=flat) |
 
 ---
 
@@ -160,9 +160,9 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 | | |
 |:--:|:--|
 | <img src="https://cdn.simpleicons.org/cashapp/355E3B" width="16"> **TOTAL COST** | **$0** |
-| ✓ Every tool | has a free tier |
-| ✗ No credit card | required |
-| ✓ No hidden fees | ever |
+| **Every tool** | has a free tier |
+| **No credit card** | required |
+| **No hidden fees** | ever |
 
 </div>
 
@@ -200,15 +200,15 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 
 ### By completion, you will:
 
-| | Outcome |
-|:--:|:--------|
-| ✓ | Build **production-grade AI-augmented applications** on free-tier infrastructure |
-| ✓ | Make **intelligent model selection decisions** (speed/quality/cost tradeoffs) |
-| ✓ | Design and implement **multi-agent systems** with tool orchestration |
-| ✓ | Architect **memory systems** using vector databases and RAG patterns |
-| ✓ | Deploy and maintain your **personal AI agent platform** |
-| ✓ | Explain **design rationale** for every architectural choice |
-| ✓ | Debug **non-deterministic AI behavior** systematically |
+| Outcome |
+|:--------|
+| Build **production-grade AI-augmented applications** on free-tier infrastructure |
+| Make **intelligent model selection decisions** (speed/quality/cost tradeoffs) |
+| Design and implement **multi-agent systems** with tool orchestration |
+| Architect **memory systems** using vector databases and RAG patterns |
+| Deploy and maintain your **personal AI agent platform** |
+| Explain **design rationale** for every architectural choice |
+| Debug **non-deterministic AI behavior** systematically |
 
 ### Portfolio Deliverable
 
@@ -246,37 +246,37 @@ Your capstone: a **Personal AI Agent Platform** capable of:
 
 ### LLM APIs
 
-| Provider | Model | Free Tier | |
-|:---------|:------|:----------|:-:|
-| <img src="https://cdn.simpleicons.org/google/4285F4" width="16"> Google | Gemini Pro | 60 requests/min | ✓ |
-| <img src="https://cdn.simpleicons.org/anthropic/D97757" width="16"> Anthropic | Claude Sonnet | Limited free access | ✓ |
-| <img src="https://cdn.simpleicons.org/openai/412991" width="16"> OpenAI | GPT-4o-mini | $5 credit on signup | ✓ |
+| Provider | Model | Free Tier |
+|:---------|:------|:----------|
+| <img src="https://cdn.simpleicons.org/google/4285F4" width="16"> Google | Gemini Pro | 60 requests/min |
+| <img src="https://cdn.simpleicons.org/anthropic/D97757" width="16"> Anthropic | Claude Sonnet | Limited free access |
+| <img src="https://cdn.simpleicons.org/openai/412991" width="16"> OpenAI | GPT-4o-mini | $5 credit on signup |
 
 ### Development & Compute
 
-| Tool | Purpose | Free Tier | |
-|:-----|:--------|:----------|:-:|
-| <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="16"> Google Colab | Notebooks, GPU | Generous free tier | ✓ |
-| <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="16"> Kaggle | Alternative compute | 30 GPU hrs/week | ✓ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16" height="16"> VS Code | IDE | Completely free | ✓ |
-| <img src="https://cdn.simpleicons.org/cursor/000000" width="16" height="16"> Cursor | AI-enhanced IDE | Free tier | ✓ |
+| Tool | Purpose | Free Tier |
+|:-----|:--------|:----------|
+| <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="16"> Google Colab | Notebooks, GPU | Generous free tier |
+| <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="16"> Kaggle | Alternative compute | 30 GPU hrs/week |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16" height="16"> VS Code | IDE | Completely free |
+| <img src="https://cdn.simpleicons.org/cursor/000000" width="16" height="16"> Cursor | AI-enhanced IDE | Free tier |
 
 ### Data & Storage
 
-| Tool | Purpose | Free Tier | |
-|:-----|:--------|:----------|:-:|
-| <img src="https://cdn.simpleicons.org/chromadb/355E3B" width="16"> ChromaDB | Local vector DB | Unlimited (local) | ✓ |
-| <img src="https://cdn.simpleicons.org/pinecone/355E3B" width="16"> Pinecone | Cloud vector DB | 100K vectors | ✓ |
-| <img src="https://cdn.simpleicons.org/mongodb/47A248" width="16"> MongoDB Atlas | Document storage | 512 MB | ✓ |
-| <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="16"> Supabase | Postgres + Auth | 500 MB | ✓ |
+| Tool | Purpose | Free Tier |
+|:-----|:--------|:----------|
+| <img src="https://cdn.simpleicons.org/chromadb/355E3B" width="16"> ChromaDB | Local vector DB | Unlimited (local) |
+| <img src="https://cdn.simpleicons.org/pinecone/355E3B" width="16"> Pinecone | Cloud vector DB | 100K vectors |
+| <img src="https://cdn.simpleicons.org/mongodb/47A248" width="16"> MongoDB Atlas | Document storage | 512 MB |
+| <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="16"> Supabase | Postgres + Auth | 500 MB |
 
 ### Deployment
 
-| Tool | Purpose | Free Tier | |
-|:-----|:--------|:----------|:-:|
-| <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> GitHub Pages | Static hosting | Unlimited | ✓ |
-| <img src="https://cdn.simpleicons.org/vercel/000000" width="16"> Vercel | Serverless | 100 GB bandwidth | ✓ |
-| <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="16"> Netlify | Alternative hosting | 100 GB bandwidth | ✓ |
+| Tool | Purpose | Free Tier |
+|:-----|:--------|:----------|
+| <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> GitHub Pages | Static hosting | Unlimited |
+| <img src="https://cdn.simpleicons.org/vercel/000000" width="16"> Vercel | Serverless | 100 GB bandwidth |
+| <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="16"> Netlify | Alternative hosting | 100 GB bandwidth |
 
 ---
 
@@ -346,12 +346,12 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 
 | Phase | Status | Target |
 |:------|:------:|:-------|
-| Course Design | ✓ **Complete** | Dec 2025 |
-| Repository Setup | ✓ **Complete** | Dec 2025 |
-| Research Phase | ⟳ **In Progress** | Dec 2025 |
-| Module 1 Development | ○ Not Started | Jan 2026 |
-| Beta Testing | ○ Not Started | Feb 2026 |
-| Public Launch | ○ Not Started | Q1 2026 |
+| Course Design | ![](https://img.shields.io/badge/-Complete-00C851?style=flat) | Dec 2025 |
+| Repository Setup | ![](https://img.shields.io/badge/-Complete-00C851?style=flat) | Dec 2025 |
+| Research Phase | ![](https://img.shields.io/badge/-In_Progress-FFC107?style=flat) | Dec 2025 |
+| Module 1 Development | ![](https://img.shields.io/badge/-Not_Started-CCCCCC?style=flat) | Jan 2026 |
+| Beta Testing | ![](https://img.shields.io/badge/-Not_Started-CCCCCC?style=flat) | Feb 2026 |
+| Public Launch | ![](https://img.shields.io/badge/-Not_Started-CCCCCC?style=flat) | Q1 2026 |
 
 ---
 
@@ -549,10 +549,16 @@ Attribution appreciated but not required.
 
 ### Inspiration
 
+We stand on the shoulders of organizations committed to justice-impacted individuals:
+
 | Organization | Impact |
 |:-------------|:-------|
-| **The Last Mile** | Pioneering tech education for the incarcerated |
-| **Code.7370** | Teaching code behind bars |
+| [**The Last Mile**](https://thelastmile.org/) | Pioneering tech education for the incarcerated |
+| [**Code.7370**](https://code7370.org/) | Teaching code behind bars |
+| [**Code the Dream**](https://codethedream.org/) | Empowering aspiring programmers from diverse backgrounds |
+| [**Persevere**](https://perseverenow.org/) | Reentry through technology training and mentorship |
+| [**Defy Ventures**](https://defyventures.org/) | Transforming the hustle through entrepreneurship and employment |
+| [**Justice Through Code**](https://justicethroughcode.org/) | Teaching computer programming to incarcerated individuals |
 | **Unlocked Futures** | Second-chance career pathways |
 | **Televerde** | Proving that background doesn't define potential |
 
@@ -610,13 +616,13 @@ This curriculum, including all original content, methodology, structure, and ped
 
 While the curriculum is copyrighted, it is licensed under the **MIT License** for educational use:
 
-| | Permission |
-|:--:|:-----------|
-| ✓ | Free to use for personal learning |
-| ✓ | Free to fork and adapt for educational purposes |
-| ✓ | Free to contribute improvements back to the community |
-| ⚠ | Attribution required when redistributing |
-| ✗ | Commercial use of branding requires permission |
+| Permission |
+|:-----------|
+| Free to use for personal learning |
+| Free to fork and adapt for educational purposes |
+| Free to contribute improvements back to the community |
+| Attribution required when redistributing |
+| Commercial use of branding requires permission |
 
 See [LICENSE](LICENSE) for complete terms.
 
