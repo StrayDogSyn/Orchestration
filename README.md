@@ -93,10 +93,10 @@ A comprehensive, **project-based curriculum** that teaches developers to:
 
 | | Skill | Description |
 |:--:|:------|:------------|
-| 🧠 | **Master Fundamentals** | Know deeply when AI helps vs. hinders |
-| 🎯 | **Orchestrate LLMs** | Select models based on task complexity and cost |
-| 🤖 | **Build Agent Platforms** | Create AI systems that evolve with your skills |
-| 🔄 | **Organic Symbiosis** | Teach your AI tools while being taught by them |
+| <img src="https://cdn.simpleicons.org/andela/355E3B" width="20"> | **Master Fundamentals** | Know deeply when AI helps vs. hinders |
+| <img src="https://cdn.simpleicons.org/openai/412991" width="20"> | **Orchestrate LLMs** | Select models based on task complexity and cost |
+| <img src="https://cdn.simpleicons.org/artifacthub/355E3B" width="20"> | **Build Agent Platforms** | Create AI systems that evolve with your skills |
+| <img src="https://cdn.simpleicons.org/aerospike/355E3B" width="20"> | **Organic Symbiosis** | Teach your AI tools while being taught by them |
 
 ### Why Does It Exist?
 
@@ -109,7 +109,7 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 | Bootcamp Graduates | OOP, algorithms, Big O | ✅ **Perfect** |
 | Self-Taught Developers | Data structures, programming logic | ✅ **Excellent** |
 | Career Changers | CS fundamentals from any source | ✅ **Great** |
-| Justice-Impacted Individuals | Programming basics + determination | 💜 **Welcome** |
+| Justice-Impacted Individuals | Programming basics + determination | <img src="https://cdn.simpleicons.org/favro/9b59b6" width="18"> **Welcome** |
 | Complete Beginners | No programming experience | ❌ Learn basics first |
 
 ---
@@ -129,8 +129,8 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 | | Topic | Concepts |
 |:--:|:------|:---------|
 | <img src="https://cdn.simpleicons.org/blueprint/355E3B" width="16"> | **OOP** | Classes, inheritance, polymorphism |
-| 📊 | **Data Structures** | Arrays, linked lists, trees, hash maps |
-| 🔢 | **Algorithms** | Sorting, searching, recursion |
+| <img src="https://cdn.simpleicons.org/chartdotjs/355E3B" width="16"> | **Data Structures** | Arrays, linked lists, trees, hash maps |
+| <img src="https://cdn.simpleicons.org/algolia/355E3B" width="16"> | **Algorithms** | Sorting, searching, recursion |
 | <img src="https://cdn.simpleicons.org/speedtest/355E3B" width="16"> | **Big O** | Time and space complexity |
 | <img src="https://cdn.simpleicons.org/python/355E3B" width="16"> | **Language** | Python (preferred) or JavaScript |
 
@@ -149,8 +149,8 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 
 | Requirement | Details | Cost |
 |:------------|:--------|:----:|
-| 💻 Computer | Any OS (Windows, macOS, Linux) | Free |
-| 🌐 Internet | 3+ Mbps for video content | — |
+| <img src="https://cdn.simpleicons.org/hp/355E3B" width="16"> Computer | Any OS (Windows, macOS, Linux) | Free |
+| <img src="https://cdn.simpleicons.org/abletonlive/355E3B" width="16"> Internet | 3+ Mbps for video content | — |
 | <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> GitHub | Free account for version control | Free |
 | <img src="https://cdn.simpleicons.org/google/355E3B" width="16"> Google | For Colab/Gemini access | Free |
 | <img src="https://cdn.simpleicons.org/vscode/007ACC" width="16" height="16"> IDE | VS Code or Cursor | Free |
@@ -159,10 +159,10 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 
 | | |
 |:--:|:--|
-| 💰 **TOTAL COST** | **$0** |
-| ✅ Every tool | has a free tier |
-| 🚫 No credit card | required |
-| 🎯 No hidden fees | ever |
+| <img src="https://cdn.simpleicons.org/cashapp/00D64F" width="16"> **TOTAL COST** | **$0** |
+| <img src="https://cdn.simpleicons.org/checkmarx/355E3B" width="16"> Every tool | has a free tier |
+| <img src="https://cdn.simpleicons.org/adblock/F40D12" width="16"> No credit card | required |
+| <img src="https://cdn.simpleicons.org/target/CC0000" width="16"> No hidden fees | ever |
 
 </div>
 
@@ -179,7 +179,7 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 | <img src="https://cdn.simpleicons.org/clockify/355E3B" width="16"> **Duration** | 17-24 weeks (self-paced) |
 | <img src="https://cdn.simpleicons.org/googleclassroom/355E3B" width="16"> **Format** | Video lectures + hands-on labs + projects → capstone |
 | <img src="https://cdn.simpleicons.org/testinglibrary/355E3B" width="16"> **Assessment** | 100% project-based (working code = proof of mastery) |
-| 📚 **Support** | Self-guided with documentation + community |
+| <img src="https://cdn.simpleicons.org/readthedocs/355E3B" width="16"> **Support** | Self-guided with documentation + community |
 
 ### Module Progression
 
@@ -202,13 +202,13 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 
 | | Outcome |
 |:--:|:--------|
-| ✅ | Build **production-grade AI-augmented applications** on free-tier infrastructure |
-| ✅ | Make **intelligent model selection decisions** (speed/quality/cost tradeoffs) |
-| ✅ | Design and implement **multi-agent systems** with tool orchestration |
-| ✅ | Architect **memory systems** using vector databases and RAG patterns |
-| ✅ | Deploy and maintain your **personal AI agent platform** |
-| ✅ | Explain **design rationale** for every architectural choice |
-| ✅ | Debug **non-deterministic AI behavior** systematically |
+| <img src="https://cdn.simpleicons.org/checkmarx/355E3B" width="18"> | Build **production-grade AI-augmented applications** on free-tier infrastructure |
+| <img src="https://cdn.simpleicons.org/checkmarx/355E3B" width="18"> | Make **intelligent model selection decisions** (speed/quality/cost tradeoffs) |
+| <img src="https://cdn.simpleicons.org/checkmarx/355E3B" width="18"> | Design and implement **multi-agent systems** with tool orchestration |
+| <img src="https://cdn.simpleicons.org/checkmarx/355E3B" width="18"> | Architect **memory systems** using vector databases and RAG patterns |
+| <img src="https://cdn.simpleicons.org/checkmarx/355E3B" width="18"> | Deploy and maintain your **personal AI agent platform** |
+| <img src="https://cdn.simpleicons.org/checkmarx/355E3B" width="18"> | Explain **design rationale** for every architectural choice |
+| <img src="https://cdn.simpleicons.org/checkmarx/355E3B" width="18"> | Debug **non-deterministic AI behavior** systematically |
 
 ### Portfolio Deliverable
 
@@ -216,9 +216,9 @@ Your capstone: a **Personal AI Agent Platform** capable of:
 
 | Feature | Description |
 |:--------|:------------|
-| 🔀 **Task Routing** | Route tasks to optimal free-tier models |
-| 🧠 **Memory** | Maintain conversation context and long-term memory |
-| ⚡ **Code Execution** | Execute code and integrate external tools |
+| <img src="https://cdn.simpleicons.org/apachekafka/9b59b6" width="16"> **Task Routing** | Route tasks to optimal free-tier models |
+| <img src="https://cdn.simpleicons.org/databricks/FF3621" width="16"> **Memory** | Maintain conversation context and long-term memory |
+| <img src="https://cdn.simpleicons.org/lightning/9b59b6" width="16"> **Code Execution** | Execute code and integrate external tools |
 | 📝 **Self-Documenting** | Document its architecture and capabilities |
 | 🌱 **Evolving** | Grow alongside your development skills |
 
@@ -265,8 +265,8 @@ Your capstone: a **Personal AI Agent Platform** capable of:
 
 | Tool | Purpose | Free Tier | |
 |:-----|:--------|:----------|:-:|
-| 🗃️ ChromaDB | Local vector DB | Unlimited (local) | ✅ |
-| 🌲 Pinecone | Cloud vector DB | 100K vectors | ✅ |
+| <img src="https://cdn.simpleicons.org/chromatic/FC521F" width="16"> ChromaDB | Local vector DB | Unlimited (local) | <img src="https://cdn.simpleicons.org/checkmarx/355E3B" width="16"> |
+| <img src="https://cdn.simpleicons.org/pinetwork/F9C74F" width="16"> Pinecone | Cloud vector DB | 100K vectors | <img src="https://cdn.simpleicons.org/checkmarx/355E3B" width="16"> |
 | <img src="https://cdn.simpleicons.org/mongodb/47A248" width="16"> MongoDB Atlas | Document storage | 512 MB | ✅ |
 | <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="16"> Supabase | Postgres + Auth | 500 MB | ✅ |
 
@@ -349,9 +349,9 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 | Course Design | ✅ **Complete** | Dec 2025 |
 | Repository Setup | ✅ **Complete** | Dec 2025 |
 | Research Phase | 🔄 **In Progress** | Dec 2025 |
-| Module 1 Development | ⚪ Not Started | Jan 2026 |
-| Beta Testing | ⚪ Not Started | Feb 2026 |
-| Public Launch | ⚪ Not Started | Q1 2026 |
+| Module 1 Development | <img src="https://cdn.simpleicons.org/circle/CCCCCC" width="16"> Not Started | Jan 2026 |
+| Beta Testing | <img src="https://cdn.simpleicons.org/circle/CCCCCC" width="16"> Not Started | Feb 2026 |
+| Public Launch | <img src="https://cdn.simpleicons.org/circle/CCCCCC" width="16"> Not Started | Q1 2026 |
 
 ---
 
@@ -524,10 +524,10 @@ Attribution appreciated but not required.
 | | |
 |:--|:--|
 | <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> | [@StrayDogSyn](https://github.com/StrayDogSyn) |
-| 💼 | [eric-petross-766a08330](https://www.linkedin.com/in/eric-petross-766a08330) |
-| 📧 | [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org) |
+| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16"> | [eric-petross-766a08330](https://www.linkedin.com/in/eric-petross-766a08330) |
+| <img src="https://cdn.simpleicons.org/gmail/EA4335" width="16"> | [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org) |
 | 🌐 | [StrayDog Syndications LLC](http://www.straydog-syndications-llc.com/) |
-| 💜 | [Second Story Initiative](https://straydog-secondstory.org/) |
+| <img src="https://cdn.simpleicons.org/heart/9b59b6" width="16"> | [Second Story Initiative](https://straydog-secondstory.org/) |
 
 </td>
 </tr>
