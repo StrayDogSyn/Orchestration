@@ -9,7 +9,7 @@ This directory contains responses from Perplexity Pro used during market and eco
 - Job market research
 - Second-chance employer databases
 
-> ⚠️ **Note**: Actual response files are in `.gitignore` (too large for version control).  
+> <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/alert-triangle.svg" width="14" style="filter: invert(77%) sepia(57%) saturate(430%) hue-rotate(359deg) brightness(101%) contrast(101%);" /> **Note**: Actual response files are in `.gitignore` (too large for version control).  
 > Validate all citations and save working links to synthesis documents.
 
 ## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/pencil.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> How to Use
