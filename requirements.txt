@@ -1,0 +1,17 @@
+# AI Orchestrator Bootcamp Dependencies
+# Free-tier compatible AI SDKs and tools for building AI-augmented applications
+
+# Anthropic Claude API
+anthropic
+
+# OpenAI GPT API
+openai
+
+# Google Generative AI (Gemini)
+google-generativeai
+
+# Vector database for embeddings and semantic search
+chromadb
+
+# Testing framework
+pytest
