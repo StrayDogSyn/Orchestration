@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![StrayDog Syndications LLC](assets/branding/straydog-syndications-llc-main.png)
+<img src="assets/branding/straydog-syndications-llc-main.png" alt="StrayDog Syndications LLC" width="400">
 
 </div>
 
@@ -447,7 +447,7 @@ This curriculum was designed through collaborative iteration between **Eric "Hun
 
 <div align="center">
 
-![StrayDog Syndications LLC](assets/branding/straydog-syndications-llc-tag-us.png)
+<img src="assets/branding/straydog-syndications-llc-tag-us.png" alt="StrayDog Syndications LLC" width="300">
 
 </div>
 

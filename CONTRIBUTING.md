@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![StrayDog Syndications LLC](assets/branding/straydog-syndications-llc-main.png)
+<img src="assets/branding/straydog-syndications-llc-main.png" alt="StrayDog Syndications LLC" width="350">
 
 </div>
 
