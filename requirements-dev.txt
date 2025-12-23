@@ -1,0 +1,86 @@
+# ============================================================================
+# The AI Orchestrator - Development Dependencies
+# ============================================================================
+# 
+# These are additional tools for course development, testing, and contribution.
+# Install with: pip install -r requirements-dev.txt
+#
+# ============================================================================
+
+# Include all base requirements
+-r requirements.txt
+
+# ============================================================================
+# DEBUGGING & DEVELOPMENT
+# ============================================================================
+
+# Enhanced debugger
+ipdb>=0.13.13
+
+# Pre-commit hooks for code quality
+pre-commit>=3.6.0
+
+# Additional linting
+pylint>=3.0.0
+
+# Import sorting
+isort>=5.13.0
+
+# ============================================================================
+# DOCUMENTATION GENERATION
+# ============================================================================
+
+# MkDocs for documentation site
+mkdocs>=1.5.0
+mkdocs-material>=9.5.0
+mkdocs-minify-plugin>=0.8.0
+
+# API documentation
+pdoc>=14.0.0
+
+# ============================================================================
+# TESTING ENHANCEMENTS
+# ============================================================================
+
+# Test parameterization
+pytest-xdist>=3.5.0
+
+# Mocking
+pytest-mock>=3.12.0
+
+# Snapshot testing
+syrupy>=4.6.0
+
+# ============================================================================
+# CODE ANALYSIS
+# ============================================================================
+
+# Security scanning
+bandit>=1.7.0
+
+# Complexity analysis
+radon>=6.0.0
+
+# Dead code detection
+vulture>=2.10.0
+
+# ============================================================================
+# JUPYTER/NOTEBOOK DEVELOPMENT
+# ============================================================================
+
+# Notebook testing
+nbval>=0.11.0
+
+# Notebook formatting
+nbstripout>=0.6.0
+
+# ============================================================================
+# BUILD & RELEASE
+# ============================================================================
+
+# Build tools
+build>=1.0.0
+twine>=4.0.0
+
+# Version management
+bump2version>=1.0.0

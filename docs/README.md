@@ -1,26 +1,61 @@
-# Documentation
+# 📖 Documentation
 
-This directory contains comprehensive documentation for the AI Orchestrator Bootcamp.
+This directory contains comprehensive documentation for The AI Orchestrator bootcamp.
 
-## Structure
+## 📂 Directory Structure
 
-### Pedagogy (`pedagogy/`)
+```
+docs/
+├── README.md           # This file
+├── QUICKSTART.md       # Getting started guide
+├── pedagogy/           # Learning theory & instructional design
+├── technical/          # Technical specs & architecture
+├── assessment/         # Rubrics & evaluation criteria
+├── research/           # Research prompts & synthesis
+└── archive/            # Historical documents
+```
+
+## 📚 Documentation Sections
+
+### 🎓 Pedagogy (`pedagogy/`)
 Educational approach, learning objectives, and teaching methodologies.
 - Portfolio-based assessment strategies
 - Justice-focused accessibility guidelines
 - Self-paced learning frameworks
 - Student support resources
+- Retention and engagement strategies
 
-### Technical (`technical/`)
+### 🔧 Technical (`technical/`)
 Technical documentation, setup guides, and reference materials.
-- Installation and setup instructions
+- Architecture specifications
 - API reference guides
-- Best practices and coding standards
+- Free-tier tool guides
 - Troubleshooting guides
+- Production patterns
 
-### Research (`research/`)
-Research papers, case studies, and academic resources.
-- AI-augmented development research
-- Educational outcomes studies
-- Industry trends and analysis
-- Free-tier tool comparisons
+### 📊 Assessment (`assessment/`)
+Evaluation criteria and rubrics for all modules.
+- Project rubrics
+- Skill assessment checklists
+- Portfolio evaluation criteria
+- Progress tracking templates
+
+### 🔬 Research (`research/`)
+Research prompts and synthesized findings.
+- [Research Prompts](research/RESEARCH_PROMPTS.md)
+- Gemini research outputs
+- Perplexity research outputs
+- Synthesized curriculum frameworks
+
+### 📦 Archive (`archive/`)
+Historical documents and design conversations.
+- Initial design conversations
+- Deprecated documentation
+- Version history
+
+## 🔗 Quick Links
+
+- [Quick Start Guide](QUICKSTART.md)
+- [Main README](../README.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Modules Overview](../modules/README.md)

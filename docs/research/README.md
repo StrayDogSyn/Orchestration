@@ -1,48 +1,68 @@
-# Research
+# 🔬 Research Directory
 
-This directory contains research papers, case studies, and academic resources related to AI-augmented development and educational outcomes.
+This directory contains research materials, prompts, and synthesized findings for developing The AI Orchestrator curriculum.
 
-## Research Areas
+## 📂 Directory Structure
 
-### AI-Augmented Development
-- Impact of AI on software development
-- Effectiveness of AI coding assistants
-- Best practices for human-AI collaboration
-- Cognitive effects of AI-assisted learning
-- Skill development in AI-augmented environments
+```
+research/
+├── README.md                    # This file
+├── RESEARCH_PROMPTS.md          # Prompts for Gemini and Perplexity
+├── gemini-responses/            # Gemini Pro research outputs
+│   └── README.md                # Instructions for Gemini research
+├── perplexity-responses/        # Perplexity Pro research outputs
+│   └── README.md                # Instructions for Perplexity research
+└── synthesis/                   # Synthesized findings
+    └── README.md                # Synthesis guidelines
+```
 
-### Educational Outcomes
-- Portfolio-based assessment effectiveness
-- Self-paced learning outcomes
-- Justice-impacted learner success factors
-- Accessibility in technical education
-- Career outcomes and transition success
+## 🎯 Research Objectives
 
-### Free-Tier Tools and Accessibility
-- Cost barriers in technical education
-- Free-tier tool viability for learning
-- Sustainability of free-tier models
-- Tool comparison and effectiveness
-- Resource optimization strategies
+### 1. Pedagogical Research (Gemini)
+- Learning theory for justice-impacted students
+- Self-paced curriculum design
+- Assessment strategies
+- Retention techniques
 
-### Justice-Focused Technology Education
-- Barriers to entry in tech careers
-- Support systems for justice-impacted learners
-- Inclusive curriculum design
-- Community building in tech education
-- Social impact of technology education
+### 2. Technical Research (Gemini)
+- LLM orchestration patterns
+- Free-tier tool capabilities
+- Production architecture patterns
+- Multi-agent systems
 
-## Contributing Research
+### 3. Market Research (Perplexity)
+- AI job market analysis
+- Second-chance employer database
+- Competitive bootcamp analysis
+- Free-tier tool ecosystem
 
-We welcome contributions including:
-- Academic papers and citations
-- Case studies
-- Industry reports
-- Educational research
-- Program evaluation data
+## 📋 Research Workflow
 
-Please ensure:
-- Proper citations and references
-- Respect for privacy and confidentiality
-- Ethical research practices
-- Accessible language and summaries
+### Phase 1: Execute Prompts
+1. Open [RESEARCH_PROMPTS.md](RESEARCH_PROMPTS.md)
+2. Run Gemini prompts (1-3) → Save to `gemini-responses/`
+3. Run Perplexity prompts (4-5) → Save to `perplexity-responses/`
+
+### Phase 2: Validate
+1. Check all Perplexity citations (links work?)
+2. Cross-reference findings across responses
+3. Note contradictions for resolution
+
+### Phase 3: Synthesize
+1. Extract key findings from each response
+2. Create synthesis documents in `synthesis/`
+3. Map findings to curriculum modules
+
+## ⚠️ Important Notes
+
+- **Response files are NOT committed** (too large, in `.gitignore`)
+- **Only README files and prompts** are version controlled
+- **Synthesized insights** are committed to `synthesis/`
+- **Validate all citations** before including in curriculum
+
+## 🔗 Quick Links
+
+- [Research Prompts](RESEARCH_PROMPTS.md)
+- [Gemini Instructions](gemini-responses/README.md)
+- [Perplexity Instructions](perplexity-responses/README.md)
+- [Synthesis Guidelines](synthesis/README.md)
