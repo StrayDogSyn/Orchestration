@@ -643,13 +643,9 @@ See [LICENSE](LICENSE) for complete terms.
 
 <br>
 
-**© 2025 Eric "Hunter" Petross | StrayDog Syndications LLC | Second Story Initiative**
+<img src="assets/branding/straydog-syndications-llc-tag-us.png" alt="StrayDog Syndications LLC" width="500">
 
-<br>
-
-<img src="assets/branding/straydog-syndications-llc-tag-us.png" alt="StrayDog Mark" width="60">
-
-<br>
+<br><br>
 
 **Built with purpose for second-chance learners**
 
@@ -658,5 +654,9 @@ See [LICENSE](LICENSE) for complete terms.
 [![Start Learning](https://img.shields.io/badge/Start_Learning-355E3B?style=for-the-badge&logo=bookstack&logoColor=white)](docs/QUICKSTART.md)
 [![Contribute](https://img.shields.io/badge/Contribute-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](CONTRIBUTING.md)
 [![Report Bug](https://img.shields.io/badge/Report_Bug-9b59b6?style=for-the-badge&logo=bugsnag&logoColor=white)](https://github.com/StrayDogSyn/Orchestration/issues)
+
+<br><br>
+
+**© 2025 Eric "Hunter" Petross | StrayDog Syndications LLC | Second Story Initiative**
 
 </div>
