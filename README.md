@@ -334,7 +334,7 @@ orchestration/
 - [ ] Design assessment rubrics
 
 ### Phase 3: Beta Testing (February 2026)
-- [ ] Hunter completes course as first beta tester
+- [ ] Eric completes course as first beta tester
 - [ ] Document pain points and improvements
 - [ ] Refine based on feedback
 
@@ -403,9 +403,11 @@ Attribution appreciated but not required.
 
 ### Project Lead
 
-**Hunter Hall**  
-StrayDog Syndications LLC  
-GitHub: [@StrayDogSyn](https://github.com/StrayDogSyn)
+**Eric "Hunter" Petross**  
+[StrayDog Syndications LLC](http://www.straydog-syndications-llc.com/) | [Second Story Initiative](https://straydog-secondstory.org/)  
+GitHub: [@StrayDogSyn](https://github.com/StrayDogSyn)  
+LinkedIn: [eric-petross-766a08330](https://www.linkedin.com/in/eric-petross-766a08330)  
+Email: [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org)
 
 ### Getting Help
 
@@ -425,9 +427,15 @@ GitHub: [@StrayDogSyn](https://github.com/StrayDogSyn)
 
 ### This Course Is AI-Augmented
 
-This curriculum was designed through collaborative iteration between **Hunter Hall** (human instructor) and **Claude** (AI partner), demonstrating the exact paradigm we teach. Every conversation, every refinement, every architectural decision exemplifies the organic human-AI evolution we want students to master.
+This curriculum was designed through collaborative iteration between **Eric "Hunter" Petross** (human instructor, Applied AI Solutions Engineer) and **Claude** (AI partner), demonstrating the exact paradigm we teach. Every conversation, every refinement, every architectural decision exemplifies the organic human-AI evolution we want students to master.
 
 > *"This README is a living document. As we build, we learn. As we learn, we refine."*
+
+### About the Creator
+
+**Eric "Hunter" Petross** is the founder of **StrayDog Syndications LLC** and the **Second Story Initiative**—leveraging technology to bridge the "Digital Cliff" for justice-impacted individuals. As an Applied AI Solutions Engineer, he combines full-stack development expertise with a passion for creating meaningful social change through technology education and mentorship.
+
+*© 2025 Eric "Hunter" Petross | StrayDog Syndications LLC | Second Story Initiative*
 
 ---
 

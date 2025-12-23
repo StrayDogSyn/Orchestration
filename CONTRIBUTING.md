@@ -5,7 +5,7 @@ Thank you for your interest in contributing to The AI Orchestrator! This project
 ## 📋 Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
-- [The Hunter-Claude Workflow](#the-hunter-claude-workflow)
+- [The Eric-Claude Workflow](#the-eric-claude-workflow)
 - [How to Contribute](#how-to-contribute)
 - [Development Process](#development-process)
 - [Pull Request Guidelines](#pull-request-guidelines)
@@ -43,21 +43,21 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 ---
 
-## 🤖 The Hunter-Claude Workflow
+## 🤖 The Eric-Claude Workflow
 
-This project uses a unique collaborative development model between Hunter (human) and Claude (AI). Here's how it works:
+This project uses a unique collaborative development model between **Eric "Hunter" Petross** (human instructor, founder of [StrayDog Syndications LLC](http://www.straydog-syndications-llc.com/) and [Second Story Initiative](https://straydog-secondstory.org/)) and **Claude** (AI partner). Here's how it works:
 
 ### How Decisions Are Made
 
-1. **Hunter** provides vision, requirements, and domain expertise
+1. **Eric** provides vision, requirements, and domain expertise
 2. **Claude** provides implementation, research synthesis, and systematic analysis
 3. **Both** iterate on ideas through structured conversation
-4. **Hunter** makes final decisions on all curriculum and architectural choices
+4. **Eric** makes final decisions on all curriculum and architectural choices
 
 ### Contributing Within This Model
 
 When proposing changes:
-- Understand that major curriculum decisions involve Hunter-Claude collaboration
+- Understand that major curriculum decisions involve Eric-Claude collaboration
 - Provide clear rationale for suggestions
 - Be open to AI-assisted review and refinement
 - Document your reasoning so it can be evaluated systematically
