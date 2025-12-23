@@ -73,7 +73,7 @@ The AI Orchestrator is a **17-24 week self-paced bootcamp** designed specificall
 </td>
 <td width="30%" align="center">
 
-<img src="assets/branding/stray-stencil.png" alt="StrayDog Mark" width="150">
+<img src="assets/branding/straydog-syndications-llc-main.png" alt="StrayDog Mark" width="150">
 
 *Building bridges across the Digital Cliff*
 
@@ -513,7 +513,7 @@ Attribution appreciated but not required.
 <tr>
 <td width="120" align="center">
 
-<img src="assets/branding/stray-stencil.png" alt="StrayDog" width="80">
+<img src="assets/branding/straydog-syndications-llc-main.png" alt="StrayDog" width="80">
 
 </td>
 <td>
@@ -588,12 +588,6 @@ This curriculum was designed through collaborative iteration between **Eric "Hun
 ## <img src="https://cdn.simpleicons.org/adguard/9b59b6" width="28" align="center">&nbsp; Intellectual Property & Branding
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<img src="assets/branding/straydog-syndications-llc-main.png" alt="StrayDog Syndications LLC" width="250">
-
-</div>
-
 ### Trademark & Copyright Notice
 
 **StrayDog Syndications LLC™** and **Second Story Initiative™** are trademarks of Eric "Hunter" Petross.
@@ -653,7 +647,7 @@ See [LICENSE](LICENSE) for complete terms.
 
 <br>
 
-<img src="assets/branding/stray-stencil.png" alt="StrayDog Mark" width="60">
+<img src="assets/branding/straydog-syndications-llc-main.png" alt="StrayDog Mark" width="60">
 
 <br>
 
