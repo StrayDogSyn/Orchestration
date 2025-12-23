@@ -84,7 +84,7 @@ The AI Orchestrator is a **17-24 week self-paced bootcamp** designed specificall
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.simpleicons.org/lightning/355E3B" width="28" align="center">&nbsp; About The Project
+## ⚡ About The Project
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ### What Is This Course?
@@ -93,10 +93,10 @@ A comprehensive, **project-based curriculum** that teaches developers to:
 
 | | Skill | Description |
 |:--:|:------|:------------|
-| <img src="https://cdn.simpleicons.org/thealgorithms/355E3B" width="20"> | **Master Fundamentals** | Know deeply when AI helps vs. hinders |
-| <img src="https://cdn.simpleicons.org/openai/355E3B" width="20"> | **Orchestrate LLMs** | Select models based on task complexity and cost |
-| <img src="https://cdn.simpleicons.org/dependabot/355E3B" width="20"> | **Build Agent Platforms** | Create AI systems that evolve with your skills |
-| <img src="https://cdn.simpleicons.org/openaigym/355E3B" width="20"> | **Organic Symbiosis** | Teach your AI tools while being taught by them |
+| 🧠 | **Master Fundamentals** | Know deeply when AI helps vs. hinders |
+| 🎯 | **Orchestrate LLMs** | Select models based on task complexity and cost |
+| 🤖 | **Build Agent Platforms** | Create AI systems that evolve with your skills |
+| 🔄 | **Organic Symbiosis** | Teach your AI tools while being taught by them |
 
 ### Why Does It Exist?
 
@@ -129,8 +129,8 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 | | Topic | Concepts |
 |:--:|:------|:---------|
 | <img src="https://cdn.simpleicons.org/blueprint/355E3B" width="16"> | **OOP** | Classes, inheritance, polymorphism |
-| <img src="https://cdn.simpleicons.org/databricks/355E3B" width="16"> | **Data Structures** | Arrays, linked lists, trees, hash maps |
-| <img src="https://cdn.simpleicons.org/thealgorithms/355E3B" width="16"> | **Algorithms** | Sorting, searching, recursion |
+| 📊 | **Data Structures** | Arrays, linked lists, trees, hash maps |
+| 🔢 | **Algorithms** | Sorting, searching, recursion |
 | <img src="https://cdn.simpleicons.org/speedtest/355E3B" width="16"> | **Big O** | Time and space complexity |
 | <img src="https://cdn.simpleicons.org/python/355E3B" width="16"> | **Language** | Python (preferred) or JavaScript |
 
@@ -179,7 +179,7 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 | <img src="https://cdn.simpleicons.org/clockify/355E3B" width="16"> **Duration** | 17-24 weeks (self-paced) |
 | <img src="https://cdn.simpleicons.org/googleclassroom/355E3B" width="16"> **Format** | Video lectures + hands-on labs + projects → capstone |
 | <img src="https://cdn.simpleicons.org/testinglibrary/355E3B" width="16"> **Assessment** | 100% project-based (working code = proof of mastery) |
-| <img src="https://cdn.simpleicons.org/readme/355E3B" width="16"> **Support** | Self-guided with documentation + community |
+| 📚 **Support** | Self-guided with documentation + community |
 
 ### Module Progression
 
@@ -216,11 +216,11 @@ Your capstone: a **Personal AI Agent Platform** capable of:
 
 | Feature | Description |
 |:--------|:------------|
-| <img src="https://cdn.simpleicons.org/router/9b59b6" width="16"> **Task Routing** | Route tasks to optimal free-tier models |
-| <img src="https://cdn.simpleicons.org/databricks/9b59b6" width="16"> **Memory** | Maintain conversation context and long-term memory |
-| <img src="https://cdn.simpleicons.org/lightning/9b59b6" width="16"> **Code Execution** | Execute code and integrate external tools |
-| <img src="https://cdn.simpleicons.org/readme/9b59b6" width="16"> **Self-Documenting** | Document its architecture and capabilities |
-| <img src="https://cdn.simpleicons.org/sitepoint/9b59b6" width="16"> **Evolving** | Grow alongside your development skills |
+| 🔀 **Task Routing** | Route tasks to optimal free-tier models |
+| 🧠 **Memory** | Maintain conversation context and long-term memory |
+| ⚡ **Code Execution** | Execute code and integrate external tools |
+| 📝 **Self-Documenting** | Document its architecture and capabilities |
+| 🌱 **Evolving** | Grow alongside your development skills |
 
 ### Target Roles
 
@@ -481,8 +481,8 @@ We welcome contributions from educators, developers, and advocates!
 | | Type | Description |
 |:--:|:-----|:------------|
 | <img src="https://cdn.simpleicons.org/files/355E3B" width="16"> | **Curriculum** | Content and improvements |
-| <img src="https://cdn.simpleicons.org/bugsnag/355E3B" width="16"> | **Bug Reports** | Issues and fixes |
-| <img src="https://cdn.simpleicons.org/readme/355E3B" width="16"> | **Documentation** | Enhancements |
+| 🐛 | **Bug Reports** | Issues and fixes |
+| 📖 | **Documentation** | Enhancements |
 | <img src="https://cdn.simpleicons.org/youtube/355E3B" width="16"> | **Video Content** | Creation |
 | <img src="https://cdn.simpleicons.org/linktree/355E3B" width="16"> | **Resources** | Curation |
 
@@ -524,8 +524,8 @@ Attribution appreciated but not required.
 | | |
 |:--|:--|
 | <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> | [@StrayDogSyn](https://github.com/StrayDogSyn) |
-| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16"> | [eric-petross-766a08330](https://www.linkedin.com/in/eric-petross-766a08330) |
-| <img src="https://cdn.simpleicons.org/gmail/355E3B" width="16"> | [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org) |
+| 💼 | [eric-petross-766a08330](https://www.linkedin.com/in/eric-petross-766a08330) |
+| 📧 | [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org) |
 | 🌐 | [StrayDog Syndications LLC](http://www.straydog-syndications-llc.com/) |
 | 💜 | [Second Story Initiative](https://straydog-secondstory.org/) |
 
@@ -537,9 +537,9 @@ Attribution appreciated but not required.
 
 | | Resource | Link |
 |:--:|:---------|:-----|
-| <img src="https://cdn.simpleicons.org/readme/355E3B" width="16"> | Documentation | [docs/](docs/) |
-| <img src="https://cdn.simpleicons.org/bugsnag/355E3B" width="16"> | Issues | [GitHub Issues](https://github.com/StrayDogSyn/Orchestration/issues) |
-| <img src="https://cdn.simpleicons.org/googlechat/355E3B" width="16"> | Discussions | Coming soon |
+| 📖 | Documentation | [docs/](docs/) |
+| 🐛 | Issues | [GitHub Issues](https://github.com/StrayDogSyn/Orchestration/issues) |
+| 💬 | Discussions | Coming soon |
 
 ---
 
