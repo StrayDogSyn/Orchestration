@@ -1,6 +1,16 @@
 # Contributing to The AI Orchestrator
 
+<div align="center">
+
+![StrayDog Syndications LLC](assets/branding/straydog-syndications-llc-main.png)
+
+</div>
+
 Thank you for your interest in contributing to The AI Orchestrator! This project exists to create second-chance career opportunities in tech, and your contributions help make that mission possible.
+
+### ©️ Copyright Notice
+
+This curriculum is © 2025 Eric "Hunter" Petross | StrayDog Syndications LLC | Second Story Initiative. By contributing, you agree that your contributions will be licensed under the same MIT License. Please see [LICENSE](LICENSE) for details.
 
 ## 📋 Table of Contents
 

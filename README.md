@@ -1,5 +1,11 @@
 # 🎯 The AI Orchestrator
 
+<div align="center">
+
+![StrayDog Syndications LLC](assets/branding/straydog-syndications-llc-main.png)
+
+</div>
+
 > **Empowering justice-impacted developers to become AI-augmented full-stack engineers through rigorous fundamentals and intelligent tool orchestration.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -434,6 +440,60 @@ This curriculum was designed through collaborative iteration between **Eric "Hun
 ### About the Creator
 
 **Eric "Hunter" Petross** is the founder of **StrayDog Syndications LLC** and the **Second Story Initiative**—leveraging technology to bridge the "Digital Cliff" for justice-impacted individuals. As an Applied AI Solutions Engineer, he combines full-stack development expertise with a passion for creating meaningful social change through technology education and mentorship.
+
+---
+
+## ©️ Intellectual Property & Branding
+
+<div align="center">
+
+![StrayDog Syndications LLC](assets/branding/straydog-syndications-llc-tag-us.png)
+
+</div>
+
+### Trademark & Copyright Notice
+
+**StrayDog Syndications LLC™** and **Second Story Initiative™** are trademarks of Eric "Hunter" Petross.
+
+This curriculum, including all original content, methodology, structure, and pedagogical approach, is:
+
+© 2025 **Eric "Hunter" Petross** | **StrayDog Syndications LLC** | **Second Story Initiative**
+
+**All Rights Reserved** for:
+- Original curriculum design and structure
+- Pedagogical methodology and approach
+- Course branding, logos, and visual identity
+- Project names and descriptive materials
+
+### Open Source License
+
+While the curriculum is copyrighted, it is licensed under the **MIT License** for educational use:
+- ✅ Free to use for personal learning
+- ✅ Free to fork and adapt for educational purposes
+- ✅ Free to contribute improvements back to the community
+- ⚠️ Attribution required when redistributing
+- ❌ Commercial use of branding requires permission
+
+See [LICENSE](LICENSE) for complete terms.
+
+### Usage Guidelines
+
+**You MAY**:
+- Use this curriculum for personal education
+- Fork and adapt for your own learning
+- Contribute back to this repository
+- Share and recommend to others
+- Use in non-commercial educational contexts with attribution
+
+**You MAY NOT**:
+- Remove or obscure copyright notices
+- Use StrayDog Syndications LLC or Second Story Initiative branding commercially without permission
+- Present this work as your own original creation
+- Sell or commercialize without explicit written permission
+
+**For commercial licensing inquiries**: [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org)
+
+---
 
 *© 2025 Eric "Hunter" Petross | StrayDog Syndications LLC | Second Story Initiative*
 
