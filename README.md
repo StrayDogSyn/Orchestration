@@ -27,7 +27,7 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/clipboard-list.svg" width="20" style="filter: invert(54%) sepia(64%) saturate(1073%) hue-rotate(222deg) brightness(93%) contrast(91%);" /> Table of Contents
+## 📋 Table of Contents
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <details>
@@ -84,7 +84,7 @@ The AI Orchestrator is a **17-24 week self-paced bootcamp** designed specificall
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bolt.svg" width="28" style="filter: invert(55%) sepia(86%) saturate(1852%) hue-rotate(354deg) brightness(101%) contrast(101%);"> About The Project
+## <img src="https://cdn.simpleicons.org/lightning/9b59b6" width="28" align="center">&nbsp; About The Project
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ### What Is This Course?
@@ -93,10 +93,10 @@ A comprehensive, **project-based curriculum** that teaches developers to:
 
 | | Skill | Description |
 |:--:|:------|:------------|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/brain.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Master Fundamentals** | Know deeply when AI helps vs. hinders |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/target.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Orchestrate LLMs** | Select models based on task complexity and cost |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/robot.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Build Agent Platforms** | Create AI systems that evolve with your skills |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/refresh.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Organic Symbiosis** | Teach your AI tools while being taught by them |
+| <img src="https://cdn.simpleicons.org/brain/355E3B" width="20"> | **Master Fundamentals** | Know deeply when AI helps vs. hinders |
+| <img src="https://cdn.simpleicons.org/target/355E3B" width="20"> | **Orchestrate LLMs** | Select models based on task complexity and cost |
+| <img src="https://cdn.simpleicons.org/robot/355E3B" width="20"> | **Build Agent Platforms** | Create AI systems that evolve with your skills |
+| <img src="https://cdn.simpleicons.org/revolut/355E3B" width="20"> | **Organic Symbiosis** | Teach your AI tools while being taught by them |
 
 ### Why Does It Exist?
 
@@ -106,11 +106,11 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 
 | Learner Type | Prerequisites | Status |
 |:-------------|:--------------|:------:|
-| Bootcamp Graduates | OOP, algorithms, Big O | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="18" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> **Perfect** |
-| Self-Taught Developers | Data structures, programming logic | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="18" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> **Excellent** |
-| Career Changers | CS fundamentals from any source | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="18" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> **Great** |
-| Justice-Impacted Individuals | Programming basics + determination | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/heart-handshake.svg" width="18" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> **Welcome** |
-| Complete Beginners | No programming experience | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/x.svg" width="18" style="filter: invert(31%) sepia(89%) saturate(2463%) hue-rotate(347deg) brightness(98%) contrast(97%);"> Learn basics first |
+| Bootcamp Graduates | OOP, algorithms, Big O | ✓ **Perfect** |
+| Self-Taught Developers | Data structures, programming logic | ✓ **Excellent** |
+| Career Changers | CS fundamentals from any source | ✓ **Great** |
+| Justice-Impacted Individuals | Programming basics + determination | ♥ **Welcome** |
+| Complete Beginners | No programming experience | ✗ Learn basics first |
 
 ---
 
@@ -129,8 +129,8 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 | | Topic | Concepts |
 |:--:|:------|:---------|
 | <img src="https://cdn.simpleicons.org/blueprint/355E3B" width="16"> | **OOP** | Classes, inheritance, polymorphism |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/chart-dots.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Data Structures** | Arrays, linked lists, trees, hash maps |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/math.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Algorithms** | Sorting, searching, recursion |
+| <img src="https://cdn.simpleicons.org/databricks/355E3B" width="16"> | **Data Structures** | Arrays, linked lists, trees, hash maps |
+| <img src="https://cdn.simpleicons.org/wolframmathematica/355E3B" width="16"> | **Algorithms** | Sorting, searching, recursion |
 | <img src="https://cdn.simpleicons.org/speedtest/355E3B" width="16"> | **Big O** | Time and space complexity |
 | <img src="https://cdn.simpleicons.org/python/355E3B" width="16"> | **Language** | Python (preferred) or JavaScript |
 
@@ -149,20 +149,20 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 
 | Requirement | Details | Cost |
 |:------------|:--------|:----:|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/device-desktop.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> Computer | Any OS (Windows, macOS, Linux) | Free |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/world.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> Internet | 3+ Mbps for video content | — |
+| <img src="https://cdn.simpleicons.org/apple/355E3B" width="16"> Computer | Any OS (Windows, macOS, Linux) | Free |
+| <img src="https://cdn.simpleicons.org/wikimediacommons/355E3B" width="16"> Internet | 3+ Mbps for video content | — |
 | <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> GitHub | Free account for version control | Free |
 | <img src="https://cdn.simpleicons.org/google/355E3B" width="16"> Google | For Colab/Gemini access | Free |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/code.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> IDE | VS Code or Cursor | Free |
+| <img src="https://cdn.simpleicons.org/visualstudiocode/355E3B" width="16"> IDE | VS Code or Cursor | Free |
 
 <div align="center">
 
 | | |
 |:--:|:--|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/currency-dollar.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> **TOTAL COST** | **$0** |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> Every tool | has a free tier |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/ban.svg" width="16" style="filter: invert(31%) sepia(89%) saturate(2463%) hue-rotate(347deg) brightness(98%) contrast(97%);"> No credit card | required |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/target.svg" width="16" style="filter: invert(31%) sepia(89%) saturate(2463%) hue-rotate(347deg) brightness(98%) contrast(97%);"> No hidden fees | ever |
+| <img src="https://cdn.simpleicons.org/cashapp/355E3B" width="16"> **TOTAL COST** | **$0** |
+| ✓ Every tool | has a free tier |
+| ✗ No credit card | required |
+| ✓ No hidden fees | ever |
 
 </div>
 
@@ -179,7 +179,7 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 | <img src="https://cdn.simpleicons.org/clockify/355E3B" width="16"> **Duration** | 17-24 weeks (self-paced) |
 | <img src="https://cdn.simpleicons.org/googleclassroom/355E3B" width="16"> **Format** | Video lectures + hands-on labs + projects → capstone |
 | <img src="https://cdn.simpleicons.org/testinglibrary/355E3B" width="16"> **Assessment** | 100% project-based (working code = proof of mastery) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> **Support** | Self-guided with documentation + community |
+| <img src="https://cdn.simpleicons.org/readthedocs/355E3B" width="16"> **Support** | Self-guided with documentation + community |
 
 ### Module Progression
 
@@ -202,13 +202,13 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 
 | | Outcome |
 |:--:|:--------|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="18" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> | Build **production-grade AI-augmented applications** on free-tier infrastructure |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="18" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> | Make **intelligent model selection decisions** (speed/quality/cost tradeoffs) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="18" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> | Design and implement **multi-agent systems** with tool orchestration |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="18" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> | Architect **memory systems** using vector databases and RAG patterns |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="18" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> | Deploy and maintain your **personal AI agent platform** |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="18" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> | Explain **design rationale** for every architectural choice |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="18" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> | Debug **non-deterministic AI behavior** systematically |
+| ✓ | Build **production-grade AI-augmented applications** on free-tier infrastructure |
+| ✓ | Make **intelligent model selection decisions** (speed/quality/cost tradeoffs) |
+| ✓ | Design and implement **multi-agent systems** with tool orchestration |
+| ✓ | Architect **memory systems** using vector databases and RAG patterns |
+| ✓ | Deploy and maintain your **personal AI agent platform** |
+| ✓ | Explain **design rationale** for every architectural choice |
+| ✓ | Debug **non-deterministic AI behavior** systematically |
 
 ### Portfolio Deliverable
 
@@ -216,11 +216,11 @@ Your capstone: a **Personal AI Agent Platform** capable of:
 
 | Feature | Description |
 |:--------|:------------|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/route.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> **Task Routing** | Route tasks to optimal free-tier models |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/database.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> **Memory** | Maintain conversation context and long-term memory |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bolt.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> **Code Execution** | Execute code and integrate external tools |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/file-text.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> **Self-Documenting** | Document its architecture and capabilities |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/plant.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> **Evolving** | Grow alongside your development skills |
+| <img src="https://cdn.simpleicons.org/googlemaps/355E3B" width="16"> **Task Routing** | Route tasks to optimal free-tier models |
+| <img src="https://cdn.simpleicons.org/databricks/355E3B" width="16"> **Memory** | Maintain conversation context and long-term memory |
+| <img src="https://cdn.simpleicons.org/lightning/355E3B" width="16"> **Code Execution** | Execute code and integrate external tools |
+| <img src="https://cdn.simpleicons.org/files/355E3B" width="16"> **Self-Documenting** | Document its architecture and capabilities |
+| <img src="https://cdn.simpleicons.org/greenhouse/355E3B" width="16"> **Evolving** | Grow alongside your development skills |
 
 ### Target Roles
 
@@ -248,35 +248,35 @@ Your capstone: a **Personal AI Agent Platform** capable of:
 
 | Provider | Model | Free Tier | |
 |:---------|:------|:----------|:-:|
-| <img src="https://cdn.simpleicons.org/google/4285F4" width="16"> Google | Gemini Pro | 60 requests/min | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
-| <img src="https://cdn.simpleicons.org/anthropic/D97757" width="16"> Anthropic | Claude Sonnet | Limited free access | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
-| <img src="https://cdn.simpleicons.org/openai/412991" width="16"> OpenAI | GPT-4o-mini | $5 credit on signup | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
+| <img src="https://cdn.simpleicons.org/google/4285F4" width="16"> Google | Gemini Pro | 60 requests/min | ✓ |
+| <img src="https://cdn.simpleicons.org/anthropic/D97757" width="16"> Anthropic | Claude Sonnet | Limited free access | ✓ |
+| <img src="https://cdn.simpleicons.org/openai/412991" width="16"> OpenAI | GPT-4o-mini | $5 credit on signup | ✓ |
 
 ### Development & Compute
 
 | Tool | Purpose | Free Tier | |
 |:-----|:--------|:----------|:-:|
-| <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="16"> Google Colab | Notebooks, GPU | Generous free tier | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
-| <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="16"> Kaggle | Alternative compute | 30 GPU hrs/week | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16" height="16"> VS Code | IDE | Completely free | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
-| <img src="https://cdn.simpleicons.org/cursor/000000" width="16" height="16" style="background-color:white;padding:2px;border-radius:2px;"> Cursor | AI-enhanced IDE | Free tier | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
+| <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="16"> Google Colab | Notebooks, GPU | Generous free tier | ✓ |
+| <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="16"> Kaggle | Alternative compute | 30 GPU hrs/week | ✓ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16" height="16"> VS Code | IDE | Completely free | ✓ |
+| <img src="https://cdn.simpleicons.org/cursor/000000" width="16" height="16"> Cursor | AI-enhanced IDE | Free tier | ✓ |
 
 ### Data & Storage
 
 | Tool | Purpose | Free Tier | |
 |:-----|:--------|:----------|:-:|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/database.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> ChromaDB | Local vector DB | Unlimited (local) | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/cone.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> Pinecone | Cloud vector DB | 100K vectors | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
-| <img src="https://cdn.simpleicons.org/mongodb/47A248" width="16"> MongoDB Atlas | Document storage | 512 MB | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
-| <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="16"> Supabase | Postgres + Auth | 500 MB | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
+| <img src="https://cdn.simpleicons.org/chromadb/355E3B" width="16"> ChromaDB | Local vector DB | Unlimited (local) | ✓ |
+| <img src="https://cdn.simpleicons.org/pinecone/355E3B" width="16"> Pinecone | Cloud vector DB | 100K vectors | ✓ |
+| <img src="https://cdn.simpleicons.org/mongodb/47A248" width="16"> MongoDB Atlas | Document storage | 512 MB | ✓ |
+| <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="16"> Supabase | Postgres + Auth | 500 MB | ✓ |
 
 ### Deployment
 
 | Tool | Purpose | Free Tier | |
 |:-----|:--------|:----------|:-:|
-| <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> GitHub Pages | Static hosting | Unlimited | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
-| <img src="https://cdn.simpleicons.org/vercel/000000" width="16" style="background-color:white;padding:2px;border-radius:2px;"> Vercel | Serverless | 100 GB bandwidth | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
-| <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="16"> Netlify | Alternative hosting | 100 GB bandwidth | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
+| <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> GitHub Pages | Static hosting | Unlimited | ✓ |
+| <img src="https://cdn.simpleicons.org/vercel/000000" width="16"> Vercel | Serverless | 100 GB bandwidth | ✓ |
+| <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="16"> Netlify | Alternative hosting | 100 GB bandwidth | ✓ |
 
 ---
 
@@ -346,12 +346,12 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 
 | Phase | Status | Target |
 |:------|:------:|:-------|
-| Course Design | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> **Complete** | Dec 2025 |
-| Repository Setup | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> **Complete** | Dec 2025 |
-| Research Phase | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/refresh.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **In Progress** | Dec 2025 |
-| Module 1 Development | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/circle.svg" width="16" style="filter: invert(80%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"> Not Started | Jan 2026 |
-| Beta Testing | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/circle.svg" width="16" style="filter: invert(80%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"> Not Started | Feb 2026 |
-| Public Launch | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/circle.svg" width="16" style="filter: invert(80%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"> Not Started | Q1 2026 |
+| Course Design | ✓ **Complete** | Dec 2025 |
+| Repository Setup | ✓ **Complete** | Dec 2025 |
+| Research Phase | ⟳ **In Progress** | Dec 2025 |
+| Module 1 Development | ○ Not Started | Jan 2026 |
+| Beta Testing | ○ Not Started | Feb 2026 |
+| Public Launch | ○ Not Started | Q1 2026 |
 
 ---
 
@@ -434,7 +434,7 @@ orchestration/
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/heart-handshake.svg" width="28" style="filter: invert(54%) sepia(64%) saturate(1073%) hue-rotate(222deg) brightness(93%) contrast(91%);" align="center">&nbsp; Second-Chance Employment Focus
+## <img src="https://cdn.simpleicons.org/handshake/9b59b6" width="28" align="center">&nbsp; Second-Chance Employment Focus
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -481,8 +481,8 @@ We welcome contributions from educators, developers, and advocates!
 | | Type | Description |
 |:--:|:-----|:------------|
 | <img src="https://cdn.simpleicons.org/files/355E3B" width="16"> | **Curriculum** | Content and improvements |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bug.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> | **Bug Reports** | Issues and fixes |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> | **Documentation** | Enhancements |
+| <img src="https://cdn.simpleicons.org/bugsnag/355E3B" width="16"> | **Bug Reports** | Issues and fixes |
+| <img src="https://cdn.simpleicons.org/readthedocs/355E3B" width="16"> | **Documentation** | Enhancements |
 | <img src="https://cdn.simpleicons.org/youtube/355E3B" width="16"> | **Video Content** | Creation |
 | <img src="https://cdn.simpleicons.org/linktree/355E3B" width="16"> | **Resources** | Curation |
 
@@ -524,10 +524,10 @@ Attribution appreciated but not required.
 | | |
 |:--|:--|
 | <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> | [@StrayDogSyn](https://github.com/StrayDogSyn) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/brand-linkedin.svg" width="16" style="filter: invert(36%) sepia(99%) saturate(1787%) hue-rotate(181deg) brightness(95%) contrast(101%);"> | [eric-petross-766a08330](https://www.linkedin.com/in/eric-petross-766a08330) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/mail.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/world.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | [StrayDog Syndications LLC](http://www.straydog-syndications-llc.com/) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/heart.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | [Second Story Initiative](https://straydog-secondstory.org/) |
+| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16"> | [eric-petross-766a08330](https://www.linkedin.com/in/eric-petross-766a08330) |
+| <img src="https://cdn.simpleicons.org/maildotru/355E3B" width="16"> | [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org) |
+| <img src="https://cdn.simpleicons.org/wikimediacommons/355E3B" width="16"> | [StrayDog Syndications LLC](http://www.straydog-syndications-llc.com/) |
+| <img src="https://cdn.simpleicons.org/gofundme/355E3B" width="16"> | [Second Story Initiative](https://straydog-secondstory.org/) |
 
 </td>
 </tr>
@@ -537,9 +537,9 @@ Attribution appreciated but not required.
 
 | | Resource | Link |
 |:--:|:---------|:-----|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> | Documentation | [docs/](docs/) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bug.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> | Issues | [GitHub Issues](https://github.com/StrayDogSyn/Orchestration/issues) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/message-circle.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> | Discussions | Coming soon |
+| <img src="https://cdn.simpleicons.org/readthedocs/355E3B" width="16"> | Documentation | [docs/](docs/) |
+| <img src="https://cdn.simpleicons.org/bugsnag/355E3B" width="16"> | Issues | [GitHub Issues](https://github.com/StrayDogSyn/Orchestration/issues) |
+| <img src="https://cdn.simpleicons.org/googlemessages/355E3B" width="16"> | Discussions | Coming soon |
 
 ---
 
@@ -612,11 +612,11 @@ While the curriculum is copyrighted, it is licensed under the **MIT License** fo
 
 | | Permission |
 |:--:|:-----------|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> | Free to use for personal learning |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> | Free to fork and adapt for educational purposes |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> | Free to contribute improvements back to the community |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/alert-triangle.svg" width="16" style="filter: invert(77%) sepia(57%) saturate(430%) hue-rotate(359deg) brightness(101%) contrast(101%);" /> | Attribution required when redistributing |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/x.svg" width="16" style="filter: invert(31%) sepia(89%) saturate(2463%) hue-rotate(347deg) brightness(98%) contrast(97%);" /> | Commercial use of branding requires permission |
+| ✓ | Free to use for personal learning |
+| ✓ | Free to fork and adapt for educational purposes |
+| ✓ | Free to contribute improvements back to the community |
+| ⚠ | Attribution required when redistributing |
+| ✗ | Commercial use of branding requires permission |
 
 See [LICENSE](LICENSE) for complete terms.
 
