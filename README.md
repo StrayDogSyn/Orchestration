@@ -27,7 +27,7 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/files.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Table of Contents
+## <img src="https://api.iconify.design/tabler/files.svg?color=%23355E3B" width="28" align="center">&nbsp; Table of Contents
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <details>
@@ -59,7 +59,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/target.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Mission Statement
+## <img src="https://api.iconify.design/tabler/target.svg?color=%23355E3B" width="28" align="center">&nbsp; Mission Statement
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <table>
@@ -84,7 +84,7 @@ The AI Orchestrator is a **17-24 week self-paced bootcamp** designed specificall
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bolt.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; About The Project
+## <img src="https://api.iconify.design/tabler/bolt.svg?color=%23355E3B" width="28" align="center">&nbsp; About The Project
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ### What Is This Course?
@@ -93,10 +93,10 @@ A comprehensive, **project-based curriculum** that teaches developers to:
 
 | | Skill | Description |
 |:--:|:------|:------------|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/brain.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Master Fundamentals** | Know deeply when AI helps vs. hinders |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/target.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Orchestrate LLMs** | Select models based on task complexity and cost |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/robot.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Build Agent Platforms** | Create AI systems that evolve with your skills |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/refresh.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Organic Symbiosis** | Teach your AI tools while being taught by them |
+| <img src="https://api.iconify.design/tabler/brain.svg?color=%23355E3B" width="20"> | **Master Fundamentals** | Know deeply when AI helps vs. hinders |
+| <img src="https://api.iconify.design/tabler/target.svg?color=%23355E3B" width="20"> | **Orchestrate LLMs** | Select models based on task complexity and cost |
+| <img src="https://api.iconify.design/tabler/robot.svg?color=%23355E3B" width="20"> | **Build Agent Platforms** | Create AI systems that evolve with your skills |
+| <img src="https://api.iconify.design/tabler/refresh.svg?color=%23355E3B" width="20"> | **Organic Symbiosis** | Teach your AI tools while being taught by them |
 
 ### Why Does It Exist?
 
@@ -115,7 +115,7 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/clipboard-check.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Prerequisites
+## <img src="https://api.iconify.design/tabler/clipboard-check.svg?color=%23355E3B" width="28" align="center">&nbsp; Prerequisites
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ### Required Knowledge
@@ -149,17 +149,17 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 
 | | Requirement | Details | Cost |
 |:--:|:------------|:--------|:----:|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/device-desktop.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | Computer | Any OS (Windows, macOS, Linux) | Free |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/wifi.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | Internet | 3+ Mbps for video content | — |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/brand-github.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | GitHub | Free account for version control | Free |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/brand-google.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | Google | For Colab/Gemini access | Free |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/code.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> | IDE | VS Code or Cursor | Free |
+| <img src="https://api.iconify.design/tabler/device-desktop.svg?color=%23355E3B" width="16"> | Computer | Any OS (Windows, macOS, Linux) | Free |
+| <img src="https://api.iconify.design/tabler/wifi.svg?color=%23355E3B" width="16"> | Internet | 3+ Mbps for video content | — |
+| <img src="https://api.iconify.design/tabler/brand-github.svg?color=%23355E3B" width="16"> | GitHub | Free account for version control | Free |
+| <img src="https://api.iconify.design/tabler/brand-google.svg?color=%23355E3B" width="16"> | Google | For Colab/Gemini access | Free |
+| <img src="https://api.iconify.design/tabler/code.svg?color=%23355E3B" width="16"> | IDE | VS Code or Cursor | Free |
 
 <div align="center">
 
 | | |
 |:--:|:--|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/currency-dollar.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> **TOTAL COST** | **$0** |
+| <img src="https://api.iconify.design/tabler/currency-dollar.svg?color=%23355E3B" width="16"> **TOTAL COST** | **$0** |
 | **Every tool** | has a free tier |
 | **No credit card** | required |
 | **No hidden fees** | ever |
@@ -169,7 +169,7 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Course Structure
+## <img src="https://api.iconify.design/tabler/book.svg?color=%23355E3B" width="28" align="center">&nbsp; Course Structure
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ### Overview
@@ -195,7 +195,7 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/school.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Learning Outcomes
+## <img src="https://api.iconify.design/tabler/school.svg?color=%23355E3B" width="28" align="center">&nbsp; Learning Outcomes
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ### By completion, you will:
@@ -235,7 +235,7 @@ Your capstone: a **Personal AI Agent Platform** capable of:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/stack-2.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Tech Stack
+## <img src="https://api.iconify.design/tabler/stack-2.svg?color=%23355E3B" width="28" align="center">&nbsp; Tech Stack
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -265,10 +265,10 @@ Your capstone: a **Personal AI Agent Platform** capable of:
 
 | | Tool | Purpose | Free Tier |
 |:--:|:-----|:--------|:----------|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/database.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | ChromaDB | Local vector DB | Unlimited (local) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/cone.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | Pinecone | Cloud vector DB | 100K vectors |
+| <img src="https://api.iconify.design/tabler/database.svg?color=%23355E3B" width="16"> | ChromaDB | Local vector DB | Unlimited (local) |
+| <img src="https://api.iconify.design/tabler/cone.svg?color=%23355E3B" width="16"> | Pinecone | Cloud vector DB | 100K vectors |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="16"> | MongoDB Atlas | Document storage | 512 MB |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/database-export.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | Supabase | Postgres + Auth | 500 MB |
+| <img src="https://api.iconify.design/tabler/database-export.svg?color=%23355E3B" width="16"> | Supabase | Postgres + Auth | 500 MB |
 
 ### Deployment
 
@@ -281,7 +281,7 @@ Your capstone: a **Personal AI Agent Platform** capable of:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/rocket.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Getting Started
+## <img src="https://api.iconify.design/tabler/rocket.svg?color=%23355E3B" width="28" align="center">&nbsp; Getting Started
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ### For Students
@@ -333,7 +333,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/chart-dots.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Project Status
+## <img src="https://api.iconify.design/tabler/chart-dots.svg?color=%23355E3B" width="28" align="center">&nbsp; Project Status
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -356,7 +356,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/folder-open.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Repository Structure
+## <img src="https://api.iconify.design/tabler/folder-open.svg?color=%23355E3B" width="28" align="center">&nbsp; Repository Structure
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ```
@@ -400,7 +400,7 @@ orchestration/
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/map.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Development Roadmap
+## <img src="https://api.iconify.design/tabler/map.svg?color=%23355E3B" width="28" align="center">&nbsp; Development Roadmap
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ### Phase 1: Foundation (December 2025)
@@ -434,7 +434,7 @@ orchestration/
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/heart-handshake.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Second-Chance Employment Focus
+## <img src="https://api.iconify.design/tabler/heart-handshake.svg?color=%23355E3B" width="28" align="center">&nbsp; Second-Chance Employment Focus
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -471,7 +471,7 @@ We stand on the shoulders of programs like:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/users.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Contributing
+## <img src="https://api.iconify.design/tabler/users.svg?color=%23355E3B" width="28" align="center">&nbsp; Contributing
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 We welcome contributions from educators, developers, and advocates!
@@ -480,18 +480,18 @@ We welcome contributions from educators, developers, and advocates!
 
 | | Type | Description |
 |:--:|:-----|:------------|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Curriculum** | Content and improvements |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bug.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Bug Reports** | Issues and fixes |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/file-text.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Documentation** | Enhancements |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/video.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Video Content** | Creation |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/link.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Resources** | Curation |
+| <img src="https://api.iconify.design/tabler/book.svg?color=%23355E3B" width="16"> | **Curriculum** | Content and improvements |
+| <img src="https://api.iconify.design/tabler/bug.svg?color=%23355E3B" width="16"> | **Bug Reports** | Issues and fixes |
+| <img src="https://api.iconify.design/tabler/file-text.svg?color=%23355E3B" width="16"> | **Documentation** | Enhancements |
+| <img src="https://api.iconify.design/tabler/video.svg?color=%23355E3B" width="16"> | **Video Content** | Creation |
+| <img src="https://api.iconify.design/tabler/link.svg?color=%23355E3B" width="16"> | **Resources** | Curation |
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/license.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; License
+## <img src="https://api.iconify.design/tabler/license.svg?color=%23355E3B" width="28" align="center">&nbsp; License
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
@@ -504,7 +504,7 @@ Attribution appreciated but not required.
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/mail.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Contact & Support
+## <img src="https://api.iconify.design/tabler/mail.svg?color=%23355E3B" width="28" align="center">&nbsp; Contact & Support
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ### Project Lead
@@ -523,11 +523,11 @@ Attribution appreciated but not required.
 
 | | |
 |:--|:--|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/brand-github.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | [@StrayDogSyn](https://github.com/StrayDogSyn) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/brand-linkedin.svg" width="16" style="filter: invert(36%) sepia(99%) saturate(1787%) hue-rotate(181deg) brightness(95%) contrast(101%);"> | [eric-petross-766a08330](https://www.linkedin.com/in/eric-petross-766a08330) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/mail.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/world.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | [StrayDog Syndications LLC](http://www.straydog-syndications-llc.com/) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/heart.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | [Second Story Initiative](https://straydog-secondstory.org/) |
+| <img src="https://api.iconify.design/tabler/brand-github.svg?color=%23355E3B" width="16"> | [@StrayDogSyn](https://github.com/StrayDogSyn) |
+| <img src="https://api.iconify.design/tabler/brand-linkedin.svg?color=%23355E3B" width="16"> | [eric-petross-766a08330](https://www.linkedin.com/in/eric-petross-766a08330) |
+| <img src="https://api.iconify.design/tabler/mail.svg?color=%23355E3B" width="16"> | [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org) |
+| <img src="https://api.iconify.design/tabler/world.svg?color=%23355E3B" width="16"> | [StrayDog Syndications LLC](http://www.straydog-syndications-llc.com/) |
+| <img src="https://api.iconify.design/tabler/heart.svg?color=%23355E3B" width="16"> | [Second Story Initiative](https://straydog-secondstory.org/) |
 
 </td>
 </tr>
@@ -537,14 +537,14 @@ Attribution appreciated but not required.
 
 | | Resource | Link |
 |:--:|:---------|:-----|
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | Documentation | [docs/](docs/) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bug.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | Issues | [GitHub Issues](https://github.com/StrayDogSyn/Orchestration/issues) |
-| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/message-circle.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | Discussions | Coming soon |
+| <img src="https://api.iconify.design/tabler/book.svg?color=%23355E3B" width="16"> | Documentation | [docs/](docs/) |
+| <img src="https://api.iconify.design/tabler/bug.svg?color=%23355E3B" width="16"> | Issues | [GitHub Issues](https://github.com/StrayDogSyn/Orchestration/issues) |
+| <img src="https://api.iconify.design/tabler/message-circle.svg?color=%23355E3B" width="16"> | Discussions | Coming soon |
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/award.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Acknowledgments
+## <img src="https://api.iconify.design/tabler/award.svg?color=%23355E3B" width="28" align="center">&nbsp; Acknowledgments
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ### Inspiration
@@ -591,7 +591,7 @@ This curriculum was designed through collaborative iteration between **Eric "Hun
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/copyright.svg" width="28" align="center" style="filter: invert(55%) sepia(54%) saturate(563%) hue-rotate(222deg) brightness(93%) contrast(91%);">&nbsp; Intellectual Property & Branding
+## <img src="https://api.iconify.design/tabler/copyright.svg?color=%23355E3B" width="28" align="center">&nbsp; Intellectual Property & Branding
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ### Trademark & Copyright Notice
