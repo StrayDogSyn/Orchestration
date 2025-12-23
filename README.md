@@ -434,7 +434,7 @@ orchestration/
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## <img src="https://cdn.simpleicons.org/heart/9b59b6" width="28" align="center">&nbsp; Second-Chance Employment Focus
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/heart.svg" width="28" style="filter: invert(54%) sepia(64%) saturate(1073%) hue-rotate(222deg) brightness(93%) contrast(91%);" align="center">&nbsp; Second-Chance Employment Focus
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
