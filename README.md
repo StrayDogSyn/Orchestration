@@ -481,8 +481,8 @@ We welcome contributions from educators, developers, and advocates!
 | | Type | Description |
 |:--:|:-----|:------------|
 | <img src="https://cdn.simpleicons.org/files/355E3B" width="16"> | **Curriculum** | Content and improvements |
-| 🐛 | **Bug Reports** | Issues and fixes |
-| 📖 | **Documentation** | Enhancements |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bug.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> | **Bug Reports** | Issues and fixes |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> | **Documentation** | Enhancements |
 | <img src="https://cdn.simpleicons.org/youtube/355E3B" width="16"> | **Video Content** | Creation |
 | <img src="https://cdn.simpleicons.org/linktree/355E3B" width="16"> | **Resources** | Curation |
 
@@ -537,9 +537,9 @@ Attribution appreciated but not required.
 
 | | Resource | Link |
 |:--:|:---------|:-----|
-| 📖 | Documentation | [docs/](docs/) |
-| 🐛 | Issues | [GitHub Issues](https://github.com/StrayDogSyn/Orchestration/issues) |
-| 💬 | Discussions | Coming soon |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> | Documentation | [docs/](docs/) |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bug.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> | Issues | [GitHub Issues](https://github.com/StrayDogSyn/Orchestration/issues) |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/message-circle.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> | Discussions | Coming soon |
 
 ---
 
@@ -618,11 +618,11 @@ While the curriculum is copyrighted, it is licensed under the **MIT License** fo
 
 | | Permission |
 |:--:|:-----------|
-| ✅ | Free to use for personal learning |
-| ✅ | Free to fork and adapt for educational purposes |
-| ✅ | Free to contribute improvements back to the community |
-| ⚠️ | Attribution required when redistributing |
-| ❌ | Commercial use of branding requires permission |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> | Free to use for personal learning |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> | Free to fork and adapt for educational purposes |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> | Free to contribute improvements back to the community |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/alert-triangle.svg" width="16" style="filter: invert(77%) sepia(57%) saturate(430%) hue-rotate(359deg) brightness(101%) contrast(101%);" /> | Attribution required when redistributing |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/x.svg" width="16" style="filter: invert(31%) sepia(89%) saturate(2463%) hue-rotate(347deg) brightness(98%) contrast(97%);" /> | Commercial use of branding requires permission |
 
 See [LICENSE](LICENSE) for complete terms.
 

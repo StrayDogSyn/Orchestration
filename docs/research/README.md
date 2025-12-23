@@ -16,7 +16,7 @@ research/
     └── README.md                # Synthesis guidelines
 ```
 
-## 🎯 Research Objectives
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/target.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Research Objectives
 
 ### 1. Pedagogical Research (Gemini)
 - Learning theory for justice-impacted students
@@ -53,14 +53,14 @@ research/
 2. Create synthesis documents in `synthesis/`
 3. Map findings to curriculum modules
 
-## ⚠️ Important Notes
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/alert-triangle.svg" width="20" style="filter: invert(77%) sepia(57%) saturate(430%) hue-rotate(359deg) brightness(101%) contrast(101%);" /> Important Notes
 
 - **Response files are NOT committed** (too large, in `.gitignore`)
 - **Only README files and prompts** are version controlled
 - **Synthesized insights** are committed to `synthesis/`
 - **Validate all citations** before including in curriculum
 
-## 🔗 Quick Links
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/link.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Quick Links
 
 - [Research Prompts](RESEARCH_PROMPTS.md)
 - [Gemini Instructions](gemini-responses/README.md)

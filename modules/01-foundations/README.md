@@ -11,7 +11,7 @@
 | Difficulty | Beginner-Intermediate |
 | Assessment | Project-based |
 
-## 🎯 Learning Objectives
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/target.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Learning Objectives
 
 By the end of this module, you will be able to:
 
@@ -22,7 +22,7 @@ By the end of this module, you will be able to:
 5. **Debug AI outputs** using CS mental models
 6. **Build a Code Explainer** that demonstrates prompt-as-function understanding
 
-## 📚 Module Content
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/books.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Module Content
 
 ### Lectures
 
@@ -53,7 +53,7 @@ Build an application that:
 - Demonstrates prompt-as-function thinking
 - Handles edge cases gracefully
 
-## 🛠️ Prerequisites Check
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/tool.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Prerequisites Check
 
 Before starting this module, ensure you're comfortable with:
 
@@ -103,7 +103,7 @@ The time/quality tradeoff in model selection mirrors algorithmic complexity trad
 └── resources/          # Supplementary materials
 ```
 
-## 🔗 Navigation
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/link.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Navigation
 
 - → [Module 02: Prompt Engineering](../02-prompting/)
 - [All Modules](../README.md)

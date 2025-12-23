@@ -11,7 +11,7 @@
 | Difficulty | Intermediate |
 | Assessment | Project-based |
 
-## 🎯 Learning Objectives
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/target.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Learning Objectives
 
 By the end of this module, you will be able to:
 
@@ -22,7 +22,7 @@ By the end of this module, you will be able to:
 5. **Identify and avoid** common prompt anti-patterns
 6. **Build a reusable prompt library** with documented design patterns
 
-## 📚 Module Content
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/books.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Module Content
 
 ### Lectures
 
@@ -54,7 +54,7 @@ Build a collection of production-ready prompts with:
 - Test cases (few-shot examples)
 - Performance metrics
 
-## 🛠️ Prerequisites Check
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/tool.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Prerequisites Check
 
 Before starting this module, ensure you can:
 
@@ -74,7 +74,7 @@ Before starting this module, ensure you can:
 └── resources/          # Supplementary materials
 ```
 
-## 🔗 Navigation
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/link.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Navigation
 
 - ← [Module 01: Foundations](../01-foundations/)
 - → [Module 03: Orchestration](../03-orchestration/)

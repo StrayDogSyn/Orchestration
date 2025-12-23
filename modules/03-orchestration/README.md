@@ -11,7 +11,7 @@
 | Difficulty | Intermediate-Advanced |
 | Assessment | Project-based |
 
-## 🎯 Learning Objectives
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/target.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Learning Objectives
 
 By the end of this module, you will be able to:
 
@@ -22,7 +22,7 @@ By the end of this module, you will be able to:
 5. **Monitor and log** model usage across providers
 6. **Build a multi-model router** with automatic fallback
 
-## 📚 Module Content
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/books.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Module Content
 
 ### Lectures
 
@@ -54,7 +54,7 @@ Build a routing system that:
 - Tracks usage and costs
 - Stays within free-tier limits
 
-## 🛠️ Prerequisites Check
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/tool.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Prerequisites Check
 
 Before starting this module, ensure you can:
 
@@ -74,7 +74,7 @@ Before starting this module, ensure you can:
 └── resources/          # Supplementary materials
 ```
 
-## 🔗 Navigation
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/link.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Navigation
 
 - ← [Module 02: Prompt Engineering](../02-prompting/)
 - → [Module 04: Memory & RAG](../04-memory/)

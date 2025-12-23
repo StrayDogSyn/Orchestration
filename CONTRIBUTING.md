@@ -12,7 +12,7 @@ Thank you for your interest in contributing to The AI Orchestrator! This project
 
 This curriculum is © 2025 Eric "Hunter" Petross | StrayDog Syndications LLC | Second Story Initiative. By contributing, you agree that your contributions will be licensed under the same MIT License. Please see [LICENSE](LICENSE) for details.
 
-## 📋 Table of Contents
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/clipboard-list.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
 - [The Eric-Claude Workflow](#the-eric-claude-workflow)
@@ -25,7 +25,7 @@ This curriculum is © 2025 Eric "Hunter" Petross | StrayDog Syndications LLC | S
 
 ---
 
-## 📜 Code of Conduct
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/scroll.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Code of Conduct
 
 ### Our Pledge
 
@@ -53,7 +53,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 ---
 
-## 🤖 The Eric-Claude Workflow
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/robot.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> The Eric-Claude Workflow
 
 This project uses a unique collaborative development model between **Eric "Hunter" Petross** (human instructor, founder of [StrayDog Syndications LLC](http://www.straydog-syndications-llc.com/) and [Second Story Initiative](https://straydog-secondstory.org/)) and **Claude** (AI partner). Here's how it works:
 
@@ -74,17 +74,17 @@ When proposing changes:
 
 ---
 
-## 🎯 How to Contribute
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/target.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> How to Contribute
 
 ### Types of Contributions
 
 | Type | Description | Difficulty |
 |------|-------------|------------|
-| 🐛 Bug Fixes | Fix typos, broken links, code errors | Easy |
-| 📝 Documentation | Improve clarity, add examples | Easy-Medium |
-| 🎥 Content | Create videos, exercises, examples | Medium |
-| 📚 Curriculum | Propose module content, learning paths | Medium-Hard |
-| 🔧 Infrastructure | Build tools, automation, templates | Hard |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bug.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Bug Fixes | Fix typos, broken links, code errors | Easy |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/file-text.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Documentation | Improve clarity, add examples | Easy-Medium |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/video.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Content | Create videos, exercises, examples | Medium |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/books.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Curriculum | Propose module content, learning paths | Medium-Hard |
+| <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/tool.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Infrastructure | Build tools, automation, templates | Hard |
 
 ### Getting Started
 
@@ -207,7 +207,7 @@ Fixes #[issue number]
 
 ---
 
-## 📖 Documentation Standards
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Documentation Standards
 
 ### Markdown Guidelines
 

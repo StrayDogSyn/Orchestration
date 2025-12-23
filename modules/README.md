@@ -1,8 +1,8 @@
-# 📚 Course Modules
+# <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/books.svg" width="24" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Course Modules
 
 This directory contains the 6 learning modules that make up The AI Orchestrator bootcamp curriculum.
 
-## 🏗️ Module Structure
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/building.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Module Structure
 
 Each module follows a consistent structure for optimal learning:
 
@@ -15,7 +15,7 @@ XX-module-name/
 └── resources/          # Curated videos, articles, references
 ```
 
-## 📖 Modules Overview
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Modules Overview
 
 ### Module 01: Foundations (Weeks 1-3)
 **Theme**: Why fundamentals matter MORE with AI
@@ -95,7 +95,7 @@ XX-module-name/
 
 ---
 
-## 📊 Development Status
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/chart-bar.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Development Status
 
 | Module | Status | Progress |
 |--------|--------|----------|
@@ -106,15 +106,15 @@ XX-module-name/
 | 05-agents | ⏳ Not Started | - |
 | 06-capstone | ⏳ Not Started | - |
 
-## 🎯 Assessment Philosophy
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/target.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Assessment Philosophy
 
 All modules use **project-based assessment**:
 
-- ❌ No traditional exams
-- ❌ No multiple choice tests
-- ✅ Working code proves mastery
-- ✅ Clear rubrics with understanding criteria
-- ✅ Portfolio-ready deliverables
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/x.svg" width="14" style="filter: invert(31%) sepia(89%) saturate(2463%) hue-rotate(347deg) brightness(98%) contrast(97%);" /> No traditional exams
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/x.svg" width="14" style="filter: invert(31%) sepia(89%) saturate(2463%) hue-rotate(347deg) brightness(98%) contrast(97%);" /> No multiple choice tests
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="14" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> Working code proves mastery
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="14" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> Clear rubrics with understanding criteria
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="14" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> Portfolio-ready deliverables
 
 ### Rubric Categories
 
@@ -127,7 +127,7 @@ All modules use **project-based assessment**:
 
 ---
 
-## 🔗 Quick Links
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/link.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Quick Links
 
 - [Main README](../README.md)
 - [Quick Start Guide](../docs/QUICKSTART.md)

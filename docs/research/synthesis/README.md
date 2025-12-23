@@ -29,7 +29,7 @@ assessment-strategy-YYYYMMDD.md     # Rubrics and evaluation criteria
 resource-curation-YYYYMMDD.md       # Curated videos, articles, links
 ```
 
-## ✅ Synthesis Checklist
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="20" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> Synthesis Checklist
 
 - [ ] All 5 research prompts completed
 - [ ] Key findings extracted from each response
@@ -40,7 +40,7 @@ resource-curation-YYYYMMDD.md       # Curated videos, articles, links
 - [ ] Tech stack finalized
 - [ ] Employer database validated
 
-## 🔗 Related
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/link.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Related
 
 - [Gemini Responses](../gemini-responses/)
 - [Perplexity Responses](../perplexity-responses/)

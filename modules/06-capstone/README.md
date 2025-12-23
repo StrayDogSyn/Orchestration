@@ -11,7 +11,7 @@
 | Difficulty | Advanced |
 | Assessment | Portfolio Project |
 
-## 🎯 Learning Objectives
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/target.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Learning Objectives
 
 By the end of this module, you will have:
 
@@ -42,11 +42,11 @@ Your capstone is a fully functional AI agent platform that demonstrates everythi
 
 Your platform must be able to:
 
-- 🔀 **Route tasks** to optimal free-tier models
-- 🧠 **Maintain memory** (conversation + long-term knowledge)
-- ⚡ **Execute actions** (code, API calls, tool use)
-- 📖 **Self-document** its architecture and decisions
-- 🌱 **Evolve** as you continue developing
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/git-branch.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **Route tasks** to optimal free-tier models
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/brain.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **Maintain memory** (conversation + long-term knowledge)
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bolt.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **Execute actions** (code, API calls, tool use)
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **Self-document** its architecture and decisions
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/plant.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **Evolve** as you continue developing
 
 ## 📅 Timeline
 
@@ -70,7 +70,7 @@ Your platform must be able to:
 - Testing & refinement
 - Portfolio presentation
 
-## 📊 Assessment Rubric
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/chart-bar.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Assessment Rubric
 
 | Category | Weight | Criteria |
 |----------|--------|----------|
@@ -90,7 +90,7 @@ Your platform must be able to:
 | Beginning | 60-69% | Meets some requirements |
 | Incomplete | <60% | Significant gaps |
 
-## 🛠️ Prerequisites Check
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/tool.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Prerequisites Check
 
 Before starting the capstone, ensure you have completed:
 
@@ -127,7 +127,7 @@ Your capstone becomes your flagship portfolio piece:
 └── resources/          # Reference materials
 ```
 
-## 🔗 Navigation
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/link.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Navigation
 
 - ← [Module 05: Agents](../05-agents/)
 - [All Modules](../README.md)

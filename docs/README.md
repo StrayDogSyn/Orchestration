@@ -1,4 +1,4 @@
-# 📖 Documentation
+# <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="24" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Documentation
 
 This directory contains comprehensive documentation for The AI Orchestrator bootcamp.
 
@@ -15,7 +15,7 @@ docs/
 └── archive/            # Historical documents
 ```
 
-## 📚 Documentation Sections
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/books.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Documentation Sections
 
 ### 🎓 Pedagogy (`pedagogy/`)
 Educational approach, learning objectives, and teaching methodologies.
@@ -33,7 +33,7 @@ Technical documentation, setup guides, and reference materials.
 - Troubleshooting guides
 - Production patterns
 
-### 📊 Assessment (`assessment/`)
+### <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/chart-bar.svg" width="18" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Assessment (`assessment/`)
 Evaluation criteria and rubrics for all modules.
 - Project rubrics
 - Skill assessment checklists
@@ -53,7 +53,7 @@ Historical documents and design conversations.
 - Deprecated documentation
 - Version history
 
-## 🔗 Quick Links
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/link.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Quick Links
 
 - [Quick Start Guide](QUICKSTART.md)
 - [Main README](../README.md)

@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 ---
 
-## ✅ You're Ready!
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="20" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> You're Ready!
 
 ### Start Learning
 
@@ -118,7 +118,7 @@ python test_setup.py
 
 ---
 
-## 📚 What's Next?
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/books.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> What's Next?
 
 ### Course Structure
 
@@ -133,14 +133,14 @@ Module 6: Capstone        → Weeks 16-24 → Build your AI platform
 
 ### Self-Paced Tips
 
-- ⏰ **Pace yourself**: 5-10 hours/week is ideal
-- 📝 **Complete every lab**: Hands-on practice is essential
-- 🔄 **Review before moving on**: Each module builds on the last
-- ❓ **Ask for help**: Open a GitHub Discussion if stuck
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/clock.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **Pace yourself**: 5-10 hours/week is ideal
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/pencil.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **Complete every lab**: Hands-on practice is essential
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/refresh.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **Review before moving on**: Each module builds on the last
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/help.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **Ask for help**: Open a GitHub Discussion if stuck
 
 ---
 
-## 🆘 Getting Help
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/help-circle.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Getting Help
 
 - **Documentation**: Browse the [docs/](docs/) directory
 - **Issues**: Found a bug? [Open an issue](https://github.com/StrayDogSyn/Orchestration/issues)
@@ -148,14 +148,14 @@ Module 6: Capstone        → Weeks 16-24 → Build your AI platform
 
 ---
 
-## 💡 Prerequisites Reminder
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bulb.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Prerequisites Reminder
 
 Before starting Module 1, you should be comfortable with:
 
-- ✅ Object-Oriented Programming (classes, inheritance)
-- ✅ Data Structures (arrays, trees, hash maps)
-- ✅ Algorithms (sorting, searching, Big O)
-- ✅ Python basics (functions, loops, error handling)
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="14" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> Object-Oriented Programming (classes, inheritance)
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="14" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> Data Structures (arrays, trees, hash maps)
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="14" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> Algorithms (sorting, searching, Big O)
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="14" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> Python basics (functions, loops, error handling)
 
 Not there yet? No problem! Build these skills first, then return. We'll be here.
 
