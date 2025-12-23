@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  StrayDog Syndications LLC - Custom Icon Library
+  © 2025 Eric "Hunter" Petross | StrayDog Syndications LLC | Second Story Initiative
+  
+  Color Palette:
+  - Primary: #355E3B (Forest Green - representing growth and second chances)
+  - Secondary: #1a1a2e (Deep Navy - professional foundation)
+  - Accent: #9b59b6 (Purple - creativity and transformation)
+  - Highlight: #e74c3c (Red - passion and determination)
+  - Light: #ecf0f1 (Off-white - clarity)
+  
+  Based on Tabler Icons (MIT License) with StrayDog customizations
+-->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  
+  <!-- Mission/Target Icon -->
+  <symbol id="icon-mission" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"/>
+    <circle cx="12" cy="12" r="6"/>
+    <circle cx="12" cy="12" r="2"/>
+    <path d="M12 2v4"/>
+    <path d="M12 18v4"/>
+    <path d="M2 12h4"/>
+    <path d="M18 12h4"/>
+  </symbol>
+
+  <!-- About/Lightbulb Icon -->
+  <symbol id="icon-about" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9 21h6"/>
+    <path d="M12 17a6 6 0 0 0 6-6 6 6 0 0 0-12 0 6 6 0 0 0 6 6z"/>
+    <path d="M9 17v1a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-1"/>
+    <path d="M12 3v1"/>
+  </symbol>
+
+  <!-- Prerequisites/Checklist Icon -->
+  <symbol id="icon-prerequisites" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3" y="3" width="18" height="18" rx="2"/>
+    <path d="M9 12l2 2 4-4"/>
+    <path d="M3 9h18"/>
+  </symbol>
+
+  <!-- Course Structure/Book Icon -->
+  <symbol id="icon-structure" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
+    <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
+    <path d="M8 7h8"/>
+    <path d="M8 11h8"/>
+    <path d="M8 15h4"/>
+  </symbol>
+
+  <!-- Learning Outcomes/Graduation Icon -->
+  <symbol id="icon-outcomes" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 10v6M2 10l10-5 10 5-10 5z"/>
+    <path d="M6 12v5c3 3 9 3 12 0v-5"/>
+  </symbol>
+
+  <!-- Tech Stack/Tools Icon -->
+  <symbol id="icon-tech" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>
+  </symbol>
+
+  <!-- Getting Started/Rocket Icon -->
+  <symbol id="icon-start" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"/>
+    <path d="M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"/>
+    <path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"/>
+    <path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"/>
+  </symbol>
+
+  <!-- Status/Chart Icon -->
+  <symbol id="icon-status" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 3v18h18"/>
+    <path d="M18 17V9"/>
+    <path d="M13 17V5"/>
+    <path d="M8 17v-3"/>
+  </symbol>
+
+  <!-- Repository/Folder Icon -->
+  <symbol id="icon-repo" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/>
+    <path d="M12 11v6"/>
+    <path d="M9 14h6"/>
+  </symbol>
+
+  <!-- Roadmap/Route Icon -->
+  <symbol id="icon-roadmap" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="6" cy="19" r="3"/>
+    <path d="M9 19h8.5a3.5 3.5 0 0 0 0-7h-11a3.5 3.5 0 0 1 0-7H15"/>
+    <circle cx="18" cy="5" r="3"/>
+  </symbol>
+
+  <!-- Second Chance/Heart Icon -->
+  <symbol id="icon-secondchance" viewBox="0 0 24 24" fill="none" stroke="#9b59b6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>
+    <path d="M12 5 9.04 7.96a2.17 2.17 0 0 0 0 3.08v0c.82.82 2.13.85 3 .07l2.07-1.9a2.82 2.82 0 0 1 3.79 0l2.96 2.66"/>
+    <path d="m18 15-2-2"/>
+    <path d="m15 18-2-2"/>
+  </symbol>
+
+  <!-- Contributing/Handshake Icon -->
+  <symbol id="icon-contribute" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m11 17 2 2a1 1 0 1 0 3-3"/>
+    <path d="m14 14 2.5 2.5a1 1 0 1 0 3-3l-3.88-3.88a3 3 0 0 0-4.24 0l-.88.88a1 1 0 1 1-3-3l2.81-2.81a5.79 5.79 0 0 1 7.06-.87l.47.28a2 2 0 0 0 1.42.25L21 4"/>
+    <path d="m21 3 1 11h-2"/>
+    <path d="M3 3 2 14l6.5 6.5a1 1 0 1 0 3-3"/>
+    <path d="M3 4h8"/>
+  </symbol>
+
+  <!-- License/Scale Icon -->
+  <symbol id="icon-license" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/>
+    <path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z"/>
+    <path d="M7 21h10"/>
+    <path d="M12 3v18"/>
+    <path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2"/>
+  </symbol>
+
+  <!-- Contact/Mail Icon -->
+  <symbol id="icon-contact" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="20" height="16" x="2" y="4" rx="2"/>
+    <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/>
+  </symbol>
+
+  <!-- Acknowledgments/Award Icon -->
+  <symbol id="icon-acknowledge" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="8" r="6"/>
+    <path d="M15.477 12.89 17 22l-5-3-5 3 1.523-9.11"/>
+  </symbol>
+
+  <!-- Copyright/Shield Icon -->
+  <symbol id="icon-copyright" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/>
+    <path d="M14.5 9a3.5 3.5 0 1 0 0 5"/>
+    <path d="M11 9v6"/>
+  </symbol>
+
+  <!-- Table of Contents/List Icon -->
+  <symbol id="icon-toc" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="8" y1="6" x2="21" y2="6"/>
+    <line x1="8" y1="12" x2="21" y2="12"/>
+    <line x1="8" y1="18" x2="21" y2="18"/>
+    <line x1="3" y1="6" x2="3.01" y2="6"/>
+    <line x1="3" y1="12" x2="3.01" y2="12"/>
+    <line x1="3" y1="18" x2="3.01" y2="18"/>
+  </symbol>
+
+  <!-- AI/Brain Icon -->
+  <symbol id="icon-ai" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9.5 2A2.5 2.5 0 0 1 12 4.5v15a2.5 2.5 0 0 1-4.96.44 2.5 2.5 0 0 1-2.96-3.08 3 3 0 0 1-.34-5.58 2.5 2.5 0 0 1 1.32-4.24 2.5 2.5 0 0 1 4.44-2.54Z"/>
+    <path d="M14.5 2A2.5 2.5 0 0 0 12 4.5v15a2.5 2.5 0 0 0 4.96.44 2.5 2.5 0 0 0 2.96-3.08 3 3 0 0 0 .34-5.58 2.5 2.5 0 0 0-1.32-4.24 2.5 2.5 0 0 0-4.44-2.54Z"/>
+  </symbol>
+
+  <!-- Matrix/Code Icon -->
+  <symbol id="icon-matrix" viewBox="0 0 24 24" fill="none" stroke="#355E3B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="16 18 22 12 16 6"/>
+    <polyline points="8 6 2 12 8 18"/>
+    <line x1="12" y1="2" x2="12" y2="22"/>
+  </symbol>
+
+  <!-- StrayDog Custom Mark (simplified stencil) -->
+  <symbol id="icon-straydog" viewBox="0 0 24 24" fill="#355E3B">
+    <path d="M12 2L8 6H4v4l-4 4 4 4v4h4l4 4 4-4h4v-4l4-4-4-4V6h-4L12 2zm0 4l2 2h2v2l2 2-2 2v2h-2l-2 2-2-2H8v-2l-2-2 2-2V8h2l2-2z"/>
+  </symbol>
+
+</svg>
