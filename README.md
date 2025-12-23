@@ -128,11 +128,11 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 
 | | Topic | Concepts |
 |:--:|:------|:---------|
-| <img src="https://cdn.simpleicons.org/blueprint/9b59b6" width="16"> | **OOP** | Classes, inheritance, polymorphism |
+| <img src="https://cdn.simpleicons.org/blueprint/355E3B" width="16"> | **OOP** | Classes, inheritance, polymorphism |
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/chart-dots.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Data Structures** | Arrays, linked lists, trees, hash maps |
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/math.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | **Algorithms** | Sorting, searching, recursion |
-| <img src="https://cdn.simpleicons.org/speedtest/9b59b6" width="16"> | **Big O** | Time and space complexity |
-| <img src="https://cdn.simpleicons.org/python/9b59b6" width="16"> | **Language** | Python (preferred) or JavaScript |
+| <img src="https://cdn.simpleicons.org/speedtest/355E3B" width="16"> | **Big O** | Time and space complexity |
+| <img src="https://cdn.simpleicons.org/python/355E3B" width="16"> | **Language** | Python (preferred) or JavaScript |
 
 </td>
 <td width="50%" align="center">
@@ -151,8 +151,8 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 |:------------|:--------|:----:|
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/device-desktop.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> Computer | Any OS (Windows, macOS, Linux) | Free |
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/world.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> Internet | 3+ Mbps for video content | — |
-| <img src="https://cdn.simpleicons.org/github/9b59b6" width="16"> GitHub | Free account for version control | Free |
-| <img src="https://cdn.simpleicons.org/google/9b59b6" width="16"> Google | For Colab/Gemini access | Free |
+| <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> GitHub | Free account for version control | Free |
+| <img src="https://cdn.simpleicons.org/google/355E3B" width="16"> Google | For Colab/Gemini access | Free |
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/code.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> IDE | VS Code or Cursor | Free |
 
 <div align="center">
@@ -176,9 +176,9 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 
 | Aspect | Details |
 |:-------|:--------|
-| <img src="https://cdn.simpleicons.org/clockify/9b59b6" width="16"> **Duration** | 17-24 weeks (self-paced) |
-| <img src="https://cdn.simpleicons.org/googleclassroom/9b59b6" width="16"> **Format** | Video lectures + hands-on labs + projects → capstone |
-| <img src="https://cdn.simpleicons.org/testinglibrary/9b59b6" width="16"> **Assessment** | 100% project-based (working code = proof of mastery) |
+| <img src="https://cdn.simpleicons.org/clockify/355E3B" width="16"> **Duration** | 17-24 weeks (self-paced) |
+| <img src="https://cdn.simpleicons.org/googleclassroom/355E3B" width="16"> **Format** | Video lectures + hands-on labs + projects → capstone |
+| <img src="https://cdn.simpleicons.org/testinglibrary/355E3B" width="16"> **Assessment** | 100% project-based (working code = proof of mastery) |
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> **Support** | Self-guided with documentation + community |
 
 ### Module Progression
@@ -274,7 +274,7 @@ Your capstone: a **Personal AI Agent Platform** capable of:
 
 | Tool | Purpose | Free Tier | |
 |:-----|:--------|:----------|:-:|
-| <img src="https://cdn.simpleicons.org/github/9b59b6" width="16"> GitHub Pages | Static hosting | Unlimited | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
+| <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> GitHub Pages | Static hosting | Unlimited | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
 | <img src="https://cdn.simpleicons.org/vercel/000000" width="16" style="background-color:white;padding:2px;border-radius:2px;"> Vercel | Serverless | 100 GB bandwidth | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
 | <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="16"> Netlify | Alternative hosting | 100 GB bandwidth | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> |
 
@@ -447,10 +447,10 @@ orchestration/
 
 | | Feature | Description |
 |:--:|:--------|:------------|
-| <img src="https://cdn.simpleicons.org/cashapp/9b59b6" width="16"> | **Zero Cost Barrier** | All free-tier tools |
-| <img src="https://cdn.simpleicons.org/clockify/9b59b6" width="16"> | **Self-Paced** | Accommodate reentry challenges |
-| <img src="https://cdn.simpleicons.org/files/9b59b6" width="16"> | **Portfolio-First** | Skills over credentials |
-| <img src="https://cdn.simpleicons.org/googlemaps/9b59b6" width="16"> | **Remote-Friendly** | Learn from anywhere |
+| <img src="https://cdn.simpleicons.org/cashapp/355E3B" width="16"> | **Zero Cost Barrier** | All free-tier tools |
+| <img src="https://cdn.simpleicons.org/clockify/355E3B" width="16"> | **Self-Paced** | Accommodate reentry challenges |
+| <img src="https://cdn.simpleicons.org/files/355E3B" width="16"> | **Portfolio-First** | Skills over credentials |
+| <img src="https://cdn.simpleicons.org/googlemaps/355E3B" width="16"> | **Remote-Friendly** | Learn from anywhere |
 
 ### Our Commitment
 
@@ -480,11 +480,11 @@ We welcome contributions from educators, developers, and advocates!
 
 | | Type | Description |
 |:--:|:-----|:------------|
-| <img src="https://cdn.simpleicons.org/files/9b59b6" width="16"> | **Curriculum** | Content and improvements |
+| <img src="https://cdn.simpleicons.org/files/355E3B" width="16"> | **Curriculum** | Content and improvements |
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bug.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> | **Bug Reports** | Issues and fixes |
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> | **Documentation** | Enhancements |
-| <img src="https://cdn.simpleicons.org/youtube/9b59b6" width="16"> | **Video Content** | Creation |
-| <img src="https://cdn.simpleicons.org/linktree/9b59b6" width="16"> | **Resources** | Curation |
+| <img src="https://cdn.simpleicons.org/youtube/355E3B" width="16"> | **Video Content** | Creation |
+| <img src="https://cdn.simpleicons.org/linktree/355E3B" width="16"> | **Resources** | Curation |
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
@@ -523,7 +523,7 @@ Attribution appreciated but not required.
 
 | | |
 |:--|:--|
-| <img src="https://cdn.simpleicons.org/github/9b59b6" width="16"> | [@StrayDogSyn](https://github.com/StrayDogSyn) |
+| <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> | [@StrayDogSyn](https://github.com/StrayDogSyn) |
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/brand-linkedin.svg" width="16" style="filter: invert(36%) sepia(99%) saturate(1787%) hue-rotate(181deg) brightness(95%) contrast(101%);"> | [eric-petross-766a08330](https://www.linkedin.com/in/eric-petross-766a08330) |
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/mail.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org) |
 | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/world.svg" width="16" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);"> | [StrayDog Syndications LLC](http://www.straydog-syndications-llc.com/) |
