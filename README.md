@@ -198,7 +198,7 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 ## <img src="https://api.iconify.design/tabler/school.svg?color=%23355E3B" width="28" align="center">&nbsp; Learning Outcomes
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-### By completion, you will:
+### By completion, you will
 
 | Outcome |
 |:--------|
@@ -291,7 +291,7 @@ Your capstone: a **Personal AI Agent Platform** capable of:
 <td>
 
 **1. Verify Prerequisites**
-   
+
 Review the [Prerequisites](#-prerequisites) section to ensure you're ready.
 
 **2. Read Quick Start**
@@ -325,6 +325,7 @@ pip install -r requirements.txt
 ### For Contributors
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
+
 - Curriculum development guidelines
 - Code of conduct
 - Pull request process
@@ -359,7 +360,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 ## <img src="https://api.iconify.design/tabler/folder-open.svg?color=%23355E3B" width="28" align="center">&nbsp; Repository Structure
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-```
+```text
 orchestration/
 ├── README.md                 # This file
 ├── QUICKSTART.md             # Quick start guide
@@ -404,6 +405,7 @@ orchestration/
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 ### Phase 1: Foundation (December 2025)
+
 - [x] Define learning outcomes and target audience
 - [x] Design repository structure
 - [x] Create research prompt frameworks
@@ -411,22 +413,26 @@ orchestration/
 - [ ] Synthesize research findings
 
 ### Phase 2: Module 1 (January 2026)
+
 - [ ] Build Module 1 curriculum (Foundations)
 - [ ] Create video lecture scripts
 - [ ] Develop hands-on labs
 - [ ] Design assessment rubrics
 
 ### Phase 3: Beta Testing (February 2026)
+
 - [ ] Eric completes course as first beta tester
 - [ ] Document pain points and improvements
 - [ ] Refine based on feedback
 
 ### Phase 4: Full Development (Q1 2026)
+
 - [ ] Complete Modules 2-5
 - [ ] Record all video content
 - [ ] Build capstone project framework
 
 ### Phase 5: Launch (Q2 2026)
+
 - [ ] Public beta release
 - [ ] Community building
 - [ ] Partner with second-chance employers
@@ -496,7 +502,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
 
-```
+```text
 MIT License - Free to use, modify, and distribute for educational purposes.
 Attribution appreciated but not required.
 ```
@@ -547,7 +553,7 @@ Attribution appreciated but not required.
 ## <img src="https://api.iconify.design/tabler/award.svg?color=%23355E3B" width="28" align="center">&nbsp; Acknowledgments
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-### Inspiration
+### Our Inspiration
 
 We stand on the shoulders of organizations committed to justice-impacted individuals:
 
@@ -607,6 +613,7 @@ This curriculum, including all original content, methodology, structure, and ped
 </div>
 
 **All Rights Reserved** for:
+
 - Original curriculum design and structure
 - Pedagogical methodology and approach
 - Course branding, logos, and visual identity
@@ -629,6 +636,7 @@ See [LICENSE](LICENSE) for complete terms.
 ### Usage Guidelines
 
 **You MAY:**
+
 - Use this curriculum for personal education
 - Fork and adapt for your own learning
 - Contribute back to this repository
@@ -636,6 +644,7 @@ See [LICENSE](LICENSE) for complete terms.
 - Use in non-commercial educational contexts with attribution
 
 **You MAY NOT:**
+
 - Remove or obscure copyright notices
 - Use StrayDog Syndications LLC or Second Story Initiative branding commercially without permission
 - Present this work as your own original creation
