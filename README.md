@@ -27,7 +27,7 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## 📋 Table of Contents
+## <img src="https://cdn.simpleicons.org/files/9b59b6" width="28" align="center">&nbsp; Table of Contents
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <details>
@@ -52,7 +52,7 @@
 | [License](#-license) | MIT License terms |
 | [Contact & Support](#-contact--support) | Reach out to us |
 | [Acknowledgments](#-acknowledgments) | Credits and inspiration |
-| [Intellectual Property](#%EF%B8%8F-intellectual-property--branding) | Copyright and usage |
+| [Intellectual Property](#-intellectual-property--branding) | Copyright and usage |
 
 </details>
 
@@ -465,8 +465,8 @@ We stand on the shoulders of programs like:
 | Organization | Mission |
 |:-------------|:--------|
 | [The Last Mile](https://thelastmile.org/) | Tech education in prisons |
-| [Code.7370](https://code7370.org/) | Teaching code behind bars |
-| [Persevere](https://perseverenow.org/) | Reentry through technology |
+| [Justice Through Code](https://centerforjustice.columbia.edu/justicethroughcode) | Preparing justice-impacted talent to thrive in the AI economy |
+| [Code the Dream](https://codethedream.org/) | Empowering aspiring programmers from diverse backgrounds |
 
 ---
 
@@ -554,11 +554,11 @@ We stand on the shoulders of organizations committed to justice-impacted individ
 | Organization | Impact |
 |:-------------|:-------|
 | [**The Last Mile**](https://thelastmile.org/) | Pioneering tech education for the incarcerated |
-| [**Code.7370**](https://code7370.org/) | Teaching code behind bars |
+| [**Justice Through Code**](https://centerforjustice.columbia.edu/justicethroughcode) | Preparing justice-impacted talent to thrive in the AI economy |
 | [**Code the Dream**](https://codethedream.org/) | Empowering aspiring programmers from diverse backgrounds |
+| [**Code.7370**](https://code7370.org/) | Teaching code behind bars |
 | [**Persevere**](https://perseverenow.org/) | Reentry through technology training and mentorship |
 | [**Defy Ventures**](https://defyventures.org/) | Transforming the hustle through entrepreneurship and employment |
-| [**Justice Through Code**](https://centerforjustice.columbia.edu/justicethroughcode) | Preparing justice-impacted talent to thrive in the AI economy |
 | **Unlocked Futures** | Second-chance career pathways |
 | **Televerde** | Proving that background doesn't define potential |
 
