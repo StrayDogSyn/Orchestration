@@ -99,7 +99,7 @@ XX-module-name/
 
 | Module | Status | Progress |
 |--------|--------|----------|
-| 01-foundations | 🔄 In Development | Planning |
+| 01-foundations | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/refresh.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> In Development | Planning |
 | 02-prompting | ⏳ Not Started | - |
 | 03-orchestration | ⏳ Not Started | - |
 | 04-memory | ⏳ Not Started | - |

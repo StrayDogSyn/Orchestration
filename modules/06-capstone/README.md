@@ -2,7 +2,7 @@
 
 > Build your personal AI agent platform
 
-## 📋 Overview
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/clipboard-list.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Overview
 
 | Attribute | Value |
 |-----------|-------|
@@ -22,7 +22,7 @@ By the end of this module, you will have:
 5. **Created a portfolio presentation** for employers
 6. **Demonstrated mastery** through working code
 
-## 🏆 The Capstone Project
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/trophy.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> The Capstone Project
 
 ### Personal AI Agent Platform
 
@@ -48,7 +48,7 @@ Your platform must be able to:
 - <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/book.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **Self-document** its architecture and decisions
 - <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/plant.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **Evolve** as you continue developing
 
-## 📅 Timeline
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/calendar.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Timeline
 
 ### Phase 1: Design (Weeks 16-17)
 - Architecture planning
@@ -100,7 +100,7 @@ Before starting the capstone, ensure you have completed:
 - [ ] Module 04: Memory & RAG (project complete)
 - [ ] Module 05: Agents (project complete)
 
-## 💼 Portfolio Integration
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/briefcase.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Portfolio Integration
 
 Your capstone becomes your flagship portfolio piece:
 
@@ -116,7 +116,7 @@ Your capstone becomes your flagship portfolio piece:
 - Future evolution plans
 - Cost optimization strategies
 
-## 📂 Directory Structure
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/folder.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Directory Structure
 
 ```
 06-capstone/

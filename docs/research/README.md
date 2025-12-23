@@ -1,8 +1,8 @@
-# 🔬 Research Directory
+# <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/microscope.svg" width="24" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Research Directory
 
 This directory contains research materials, prompts, and synthesized findings for developing The AI Orchestrator curriculum.
 
-## 📂 Directory Structure
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/folder.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Directory Structure
 
 ```
 research/
@@ -36,7 +36,7 @@ research/
 - Competitive bootcamp analysis
 - Free-tier tool ecosystem
 
-## 📋 Research Workflow
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/clipboard-list.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Research Workflow
 
 ### Phase 1: Execute Prompts
 1. Open [RESEARCH_PROMPTS.md](RESEARCH_PROMPTS.md)

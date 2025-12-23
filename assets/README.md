@@ -2,7 +2,7 @@
 
 This directory contains visual and media assets for the AI Orchestrator Bootcamp.
 
-## 🎨 Branding Assets
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/palette.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Branding Assets
 
 ### StrayDog Syndications LLC Logos
 
@@ -23,11 +23,11 @@ All logos, branding materials, and visual identity elements are:
 © 2025 Eric "Hunter" Petross | StrayDog Syndications LLC
 
 **Usage Restrictions**:
-- ✅ Use within this curriculum repository with attribution
-- ✅ Use in educational contexts citing this project
-- ❌ Commercial use requires written permission
-- ❌ Modification of logos prohibited
-- ❌ Use implying endorsement without permission
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="14" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> Use within this curriculum repository with attribution
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="14" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);" /> Use in educational contexts citing this project
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/x.svg" width="14" style="filter: invert(31%) sepia(89%) saturate(2463%) hue-rotate(347deg) brightness(98%) contrast(97%);" /> Commercial use requires written permission
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/x.svg" width="14" style="filter: invert(31%) sepia(89%) saturate(2463%) hue-rotate(347deg) brightness(98%) contrast(97%);" /> Modification of logos prohibited
+- <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/x.svg" width="14" style="filter: invert(31%) sepia(89%) saturate(2463%) hue-rotate(347deg) brightness(98%) contrast(97%);" /> Use implying endorsement without permission
 
 For licensing inquiries: [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org)
 

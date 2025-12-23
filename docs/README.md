@@ -2,7 +2,7 @@
 
 This directory contains comprehensive documentation for The AI Orchestrator bootcamp.
 
-## 📂 Directory Structure
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/folder.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Directory Structure
 
 ```
 docs/
@@ -17,7 +17,7 @@ docs/
 
 ## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/books.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Documentation Sections
 
-### 🎓 Pedagogy (`pedagogy/`)
+### <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/school.svg" width="18" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Pedagogy (`pedagogy/`)
 Educational approach, learning objectives, and teaching methodologies.
 - Portfolio-based assessment strategies
 - Justice-focused accessibility guidelines
@@ -25,7 +25,7 @@ Educational approach, learning objectives, and teaching methodologies.
 - Student support resources
 - Retention and engagement strategies
 
-### 🔧 Technical (`technical/`)
+### <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/tool.svg" width="18" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Technical (`technical/`)
 Technical documentation, setup guides, and reference materials.
 - Architecture specifications
 - API reference guides
@@ -40,14 +40,14 @@ Evaluation criteria and rubrics for all modules.
 - Portfolio evaluation criteria
 - Progress tracking templates
 
-### 🔬 Research (`research/`)
+### <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/microscope.svg" width="18" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Research (`research/`)
 Research prompts and synthesized findings.
 - [Research Prompts](research/RESEARCH_PROMPTS.md)
 - Gemini research outputs
 - Perplexity research outputs
 - Synthesized curriculum frameworks
 
-### 📦 Archive (`archive/`)
+### <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/archive.svg" width="18" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Archive (`archive/`)
 Historical documents and design conversations.
 - Initial design conversations
 - Deprecated documentation

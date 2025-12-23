@@ -115,7 +115,7 @@ When proposing changes:
 
 ---
 
-## 🔄 Development Process
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/refresh.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Development Process
 
 ### Branch Naming
 
@@ -163,7 +163,7 @@ fix(lab-02): correct Python syntax error in starter code
 
 ---
 
-## 🔀 Pull Request Guidelines
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/git-branch.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Pull Request Guidelines
 
 ### Before Submitting
 
@@ -272,7 +272,7 @@ print(binary_search([1, 2, 3, 4, 5], 4))
 
 ---
 
-## 🧪 Testing Requirements
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/flask.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Testing Requirements
 
 ### For Code Contributions
 
@@ -296,7 +296,7 @@ pytest --cov=.
 
 ---
 
-## 🎨 Style Guidelines
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/palette.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Style Guidelines
 
 ### Python
 
@@ -347,7 +347,7 @@ modules/XX-name/
 
 ---
 
-## 🙋 Getting Help
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/hand-stop.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Getting Help
 
 - **Questions**: Open a GitHub Discussion
 - **Bugs**: Open a GitHub Issue
@@ -361,7 +361,7 @@ modules/XX-name/
 
 ---
 
-## 🏆 Recognition
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/trophy.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Recognition
 
 Contributors are recognized in:
 - README.md acknowledgments
@@ -370,10 +370,10 @@ Contributors are recognized in:
 
 ---
 
-## 📄 License
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/file-text.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> License
 
 By contributing, you agree that your contributions will be licensed under the MIT License.
 
 ---
 
-Thank you for helping create opportunities for second-chance learners! 💜
+Thank you for helping create opportunities for second-chance learners! <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/heart.svg" width="14" style="filter: invert(54%) sepia(64%) saturate(1073%) hue-rotate(222deg) brightness(93%) contrast(91%);" />

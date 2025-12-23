@@ -2,7 +2,7 @@
 
 > Why fundamentals matter MORE with AI
 
-## 📋 Overview
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/clipboard-list.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Overview
 
 | Attribute | Value |
 |-----------|-------|
@@ -63,9 +63,9 @@ Before starting this module, ensure you're comfortable with:
 - [ ] **Big O**: Time and space complexity analysis
 - [ ] **Python**: Basic syntax and functions
 
-> 💡 Not sure if you're ready? If you can implement a binary search tree and explain its O(log n) lookup time, you're good to go!
+> <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/bulb.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Not sure if you're ready? If you can implement a binary search tree and explain its O(log n) lookup time, you're good to go!
 
-## 🧠 Key Concepts
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/brain.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Key Concepts
 
 ### The Chinese Mail Room Problem
 
@@ -92,7 +92,7 @@ The time/quality tradeoff in model selection mirrors algorithmic complexity trad
 | **Graph** | Multi-agent coordination |
 | **Hash Map** | Lookup tables in prompts |
 
-## 📂 Directory Structure
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/folder.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Directory Structure
 
 ```
 01-foundations/

@@ -2,7 +2,7 @@
 
 > Multi-agent architectures, tool use, workflows
 
-## 📋 Overview
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/clipboard-list.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Overview
 
 | Attribute | Value |
 |-----------|-------|
@@ -63,7 +63,7 @@ Before starting this module, ensure you can:
 - [ ] Design semantic search systems
 - [ ] Complete Module 04 project successfully
 
-## 📂 Directory Structure
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/folder.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Directory Structure
 
 ```
 05-agents/

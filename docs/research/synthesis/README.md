@@ -2,7 +2,7 @@
 
 This directory contains synthesized findings from the Gemini and Perplexity research phases.
 
-## 📂 What Goes Here
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/folder.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> What Goes Here
 
 - Consolidated curriculum framework
 - Validated tool recommendations
@@ -10,7 +10,7 @@ This directory contains synthesized findings from the Gemini and Perplexity rese
 - Learning objective hierarchies
 - Assessment rubric templates
 
-## 📝 Synthesis Process
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/pencil.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Synthesis Process
 
 1. **Complete all research** (Gemini Prompts 1-3, Perplexity Prompts 4-5)
 2. **Review each response** thoroughly
@@ -18,7 +18,7 @@ This directory contains synthesized findings from the Gemini and Perplexity rese
 4. **Note contradictions** that need resolution
 5. **Extract actionable items** into synthesis documents
 
-## 📋 Expected Documents
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/clipboard-list.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Expected Documents
 
 ```
 curriculum-framework-YYYYMMDD.md    # Overall course structure

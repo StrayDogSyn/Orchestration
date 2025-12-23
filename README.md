@@ -27,7 +27,7 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-## 📑 Table of Contents
+## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/clipboard-list.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Table of Contents
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <details>
@@ -348,7 +348,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 |:------|:------:|:-------|
 | Course Design | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> **Complete** | Dec 2025 |
 | Repository Setup | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/check.svg" width="16" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);"> **Complete** | Dec 2025 |
-| Research Phase | 🔄 **In Progress** | Dec 2025 |
+| Research Phase | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/refresh.svg" width="14" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> **In Progress** | Dec 2025 |
 | Module 1 Development | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/circle.svg" width="16" style="filter: invert(80%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"> Not Started | Jan 2026 |
 | Beta Testing | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/circle.svg" width="16" style="filter: invert(80%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"> Not Started | Feb 2026 |
 | Public Launch | <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/circle.svg" width="16" style="filter: invert(80%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"> Not Started | Q1 2026 |

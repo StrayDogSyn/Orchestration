@@ -1,4 +1,4 @@
-# 🚀 Quick Start Guide
+# <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/rocket.svg" width="24" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Quick Start Guide
 
 > Get from zero to learning in 3 steps.
 
