@@ -558,7 +558,7 @@ We stand on the shoulders of organizations committed to justice-impacted individ
 | [**Code the Dream**](https://codethedream.org/) | Empowering aspiring programmers from diverse backgrounds |
 | [**Persevere**](https://perseverenow.org/) | Reentry through technology training and mentorship |
 | [**Defy Ventures**](https://defyventures.org/) | Transforming the hustle through entrepreneurship and employment |
-| [**Justice Through Code**](https://justicethroughcode.org/) | Teaching computer programming to incarcerated individuals |
+| [**Justice Through Code**](https://centerforjustice.columbia.edu/justicethroughcode) | Preparing justice-impacted talent to thrive in the AI economy |
 | **Unlocked Futures** | Second-chance career pathways |
 | **Televerde** | Proving that background doesn't define potential |
 
