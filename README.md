@@ -647,7 +647,7 @@ See [LICENSE](LICENSE) for complete terms.
 
 <br>
 
-<img src="assets/branding/straydog-syndications-llc-main.png" alt="StrayDog Mark" width="60">
+<img src="assets/branding/straydog-syndications-llc-tag-us.png" alt="StrayDog Mark" width="60">
 
 <br>
 
