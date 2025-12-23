@@ -153,7 +153,7 @@ The AI revolution is creating opportunities—but also widening gaps. This cours
 | 🌐 Internet | 3+ Mbps for video content | — |
 | <img src="https://cdn.simpleicons.org/github/355E3B" width="16"> GitHub | Free account for version control | Free |
 | <img src="https://cdn.simpleicons.org/google/355E3B" width="16"> Google | For Colab/Gemini access | Free |
-| 💻 IDE | VS Code or Cursor | Free |
+| <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="16" height="16"> IDE | VS Code or Cursor | Free |
 
 <div align="center">
 
@@ -258,8 +258,8 @@ Your capstone: a **Personal AI Agent Platform** capable of:
 |:-----|:--------|:----------|:-:|
 | <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="16"> Google Colab | Notebooks, GPU | Generous free tier | ✅ |
 | <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="16"> Kaggle | Alternative compute | 30 GPU hrs/week | ✅ |
-| 💻 VS Code | IDE | Completely free | ✅ |
-| ⌨️ Cursor | AI-enhanced IDE | Free tier | ✅ |
+| <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="16" height="16"> VS Code | IDE | Completely free | ✅ |
+| <img src="https://cdn.simpleicons.org/cursor/00D8FF" width="16" height="16"> Cursor | AI-enhanced IDE | Free tier | ✅ |
 
 ### Data & Storage
 
