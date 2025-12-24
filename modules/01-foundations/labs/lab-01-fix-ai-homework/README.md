@@ -2,10 +2,11 @@
 
 ## Overview
 
-This hands-on lab accompanies [Lecture 01: The Architect's Advantage](../../lectures/01-architects-advantage.md).
+This hands-on lab accompanies
+[Lecture 01: The Architect's Advantage][lecture].
 
-**Duration**: ~28 minutes  
-**Difficulty**: Beginner-Intermediate  
+**Duration**: ~28 minutes
+**Difficulty**: Beginner-Intermediate
 **Prerequisites**: Basic Python, OOP concepts, Big O awareness
 
 ---
@@ -15,7 +16,7 @@ This hands-on lab accompanies [Lecture 01: The Architect's Advantage](../../lect
 By completing this lab, you will:
 
 1. Analyze AI-generated code for performance issues (not just correctness)
-2. Practice writing "architect-level" prompts that extract explanations, not just code
+2. Practice writing "architect-level" prompts that extract explanations
 3. Verify AI suggestions through empirical testing
 4. Experience the difference between *using* AI and *orchestrating* AI
 
@@ -34,17 +35,20 @@ By completing this lab, you will:
 ## 🚀 Getting Started
 
 ### Option A: Google Colab (Recommended)
-1. Upload `starter.ipynb` to [Google Colab](https://colab.research.google.com/)
+
+1. Upload `starter.ipynb` to [Google Colab][colab]
 2. Work through each cell in order
 3. No installation required!
 
 ### Option B: Local Jupyter
+
 ```bash
 # From the lab directory
 jupyter notebook starter.ipynb
 ```
 
 ### Option C: VS Code
+
 1. Open `starter.ipynb` in VS Code
 2. Select a Python kernel
 3. Run cells with Shift+Enter
@@ -84,10 +88,18 @@ You've completed this lab when you can:
 
 ## 📚 Related Resources
 
-- [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
-- [Python Time Complexity](https://wiki.python.org/moin/TimeComplexity)
-- [Hash Tables Explained](https://www.youtube.com/watch?v=shs0KM3wKv8)
+- [Big O Cheat Sheet][bigo]
+- [Python Time Complexity][pytc]
+- [Hash Tables Explained][hash]
 
 ---
 
-**Next**: Complete the reflection questions in [Lecture 01](../../lectures/01-architects-advantage.md), then proceed to Lecture 02.
+**Next**: Complete the reflection questions in [Lecture 01][lecture],
+then proceed to Lecture 02.
+
+<!-- Link references -->
+[lecture]: ../../lectures/01-architects-advantage.md
+[colab]: https://colab.research.google.com/
+[bigo]: https://www.bigocheatsheet.com/
+[pytc]: https://wiki.python.org/moin/TimeComplexity
+[hash]: https://www.youtube.com/watch?v=shs0KM3wKv8
