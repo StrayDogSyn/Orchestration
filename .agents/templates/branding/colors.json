@@ -1,0 +1,95 @@
+{
+  "project": "The AI Orchestrator",
+  "brand": {
+    "primary": {
+      "name": "Deep Blue",
+      "hex": "#1E3A8A",
+      "rgb": "rgb(30, 58, 138)",
+      "usage": "Primary brand color, headers, CTAs"
+    },
+    "secondary": {
+      "name": "Electric Teal",
+      "hex": "#14B8A6",
+      "rgb": "rgb(20, 184, 166)",
+      "usage": "Accents, highlights, interactive elements"
+    },
+    "accent": {
+      "name": "Sunset Orange",
+      "hex": "#F59E0B",
+      "rgb": "rgb(245, 158, 11)",
+      "usage": "Warnings, important callouts"
+    },
+    "neutral": {
+      "dark": {
+        "name": "Charcoal",
+        "hex": "#1F2937",
+        "rgb": "rgb(31, 41, 55)",
+        "usage": "Body text, dark backgrounds"
+      },
+      "medium": {
+        "name": "Slate",
+        "hex": "#64748B",
+        "rgb": "rgb(100, 116, 139)",
+        "usage": "Secondary text, borders"
+      },
+      "light": {
+        "name": "Cloud",
+        "hex": "#F1F5F9",
+        "rgb": "rgb(241, 245, 249)",
+        "usage": "Light backgrounds, cards"
+      }
+    },
+    "semantic": {
+      "success": {
+        "hex": "#10B981",
+        "rgb": "rgb(16, 185, 129)",
+        "usage": "Success states, completed tasks"
+      },
+      "error": {
+        "hex": "#EF4444",
+        "rgb": "rgb(239, 68, 68)",
+        "usage": "Errors, destructive actions"
+      },
+      "warning": {
+        "hex": "#F59E0B",
+        "rgb": "rgb(245, 158, 11)",
+        "usage": "Warnings, caution"
+      },
+      "info": {
+        "hex": "#3B82F6",
+        "rgb": "rgb(59, 130, 246)",
+        "usage": "Information, help text"
+      }
+    }
+  },
+  "code_syntax": {
+    "background": "#1E1E1E",
+    "foreground": "#D4D4D4",
+    "comment": "#6A9955",
+    "string": "#CE9178",
+    "keyword": "#569CD6",
+    "function": "#DCDCAA",
+    "variable": "#9CDCFE",
+    "number": "#B5CEA8"
+  },
+  "gradients": {
+    "primary": {
+      "from": "#1E3A8A",
+      "to": "#14B8A6",
+      "css": "linear-gradient(135deg, #1E3A8A 0%, #14B8A6 100%)"
+    },
+    "accent": {
+      "from": "#F59E0B",
+      "to": "#EF4444",
+      "css": "linear-gradient(135deg, #F59E0B 0%, #EF4444 100%)"
+    }
+  },
+  "accessibility": {
+    "contrast_ratios": {
+      "primary_on_white": "8.5:1",
+      "secondary_on_white": "4.7:1",
+      "text_on_background": "15:1"
+    },
+    "wcag_compliance": "AAA"
+  }
+}

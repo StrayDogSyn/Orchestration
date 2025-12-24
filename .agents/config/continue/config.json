@@ -1,0 +1,147 @@
+{
+  "models": [
+    {
+      "title": "Gemini Flash (Default)",
+      "provider": "gemini",
+      "model": "gemini-2.0-flash-exp",
+      "apiKey": "${GEMINI_API_KEY}",
+      "contextLength": 1000000,
+      "completionOptions": {
+        "temperature": 0.2,
+        "maxTokens": 2048
+      }
+    },
+    {
+      "title": "Claude Sonnet (Premium)",
+      "provider": "anthropic",
+      "model": "claude-3-5-sonnet-20241022",
+      "apiKey": "${ANTHROPIC_API_KEY}",
+      "contextLength": 200000,
+      "completionOptions": {
+        "temperature": 0.3,
+        "maxTokens": 4096
+      }
+    },
+    {
+      "title": "GPT-4o-mini (Backup)",
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "apiKey": "${OPENAI_API_KEY}",
+      "contextLength": 128000,
+      "completionOptions": {
+        "temperature": 0.2,
+        "maxTokens": 2048
+      }
+    }
+  ],
+  
+  "tabAutocompleteModel": {
+    "title": "Gemini Flash Autocomplete",
+    "provider": "gemini",
+    "model": "gemini-2.0-flash-exp",
+    "apiKey": "${GEMINI_API_KEY}",
+    "completionOptions": {
+      "temperature": 0.1,
+      "maxTokens": 256
+    }
+  },
+  
+  "customCommands": [
+    {
+      "name": "review",
+      "prompt": "Review this code for:\n1. Bugs and edge cases\n2. Performance (Big O complexity)\n3. Readability and maintainability\n4. Adherence to project style (see .cursorrules)\n\nProvide specific, actionable suggestions. No generic advice.",
+      "description": "Rigorous code review with Big O analysis"
+    },
+    {
+      "name": "optimize",
+      "prompt": "Analyze the time and space complexity of this code. If it's O(n²) or worse, suggest an O(n) or O(n log n) solution. Explain:\n1. Current complexity and why\n2. Optimized approach\n3. Tradeoffs (memory vs speed)\n4. When optimization matters vs premature",
+      "description": "Performance optimization with complexity analysis"
+    },
+    {
+      "name": "explain",
+      "prompt": "Explain this code as if teaching to someone who:\n- Understands OOP, data structures, and Big O\n- Hasn't seen this specific pattern before\n- Values understanding over memorization\n\nUse analogies from cooking, gaming, or 90s movies (sparingly). Focus on 'why' not just 'what'.",
+      "description": "Educational explanation for intermediate learners"
+    },
+    {
+      "name": "test",
+      "prompt": "Generate pytest tests covering:\n1. Happy path (typical valid input)\n2. Edge cases (empty, None, boundary values)\n3. Error conditions (invalid input, exceptions)\n4. Performance edge cases (large inputs)\n\nFollow project naming conventions. Use descriptive test names.",
+      "description": "Comprehensive test generation"
+    },
+    {
+      "name": "doc",
+      "prompt": "Add or improve documentation following Google docstring style:\n1. One-line summary\n2. Detailed description (if complex)\n3. Time and space complexity (Big O)\n4. Args with types\n5. Returns with type\n6. Raises (if applicable)\n7. Example with expected output\n\nNo generic phrases. Be specific and accurate.",
+      "description": "Generate comprehensive documentation"
+    },
+    {
+      "name": "refactor",
+      "prompt": "Refactor this code to improve:\n1. Readability (clear variable names, logical structure)\n2. Performance (better algorithms, less redundancy)\n3. Maintainability (DRY, single responsibility)\n4. Type safety (add/fix type hints)\n\nShow 'before' and 'after' with explanation of each improvement.",
+      "description": "Comprehensive refactoring"
+    },
+    {
+      "name": "debug",
+      "prompt": "Help debug this code:\n1. Identify the bug or unexpected behavior\n2. Explain why it's happening (root cause)\n3. Suggest a fix with explanation\n4. Recommend how to prevent similar bugs\n5. Add tests to catch this in future\n\nBe specific about line numbers and logic flow.",
+      "description": "Systematic debugging assistance"
+    },
+    {
+      "name": "curriculum",
+      "prompt": "Design curriculum content following The AI Orchestrator pedagogy:\n1. Learning objectives (what will students know/do?)\n2. Prerequisites (what must they know first?)\n3. Concept explanation (with cooking/gaming analogy)\n4. Code example (before → after)\n5. Hands-on lab (20-30 min exercise)\n6. Assessment criteria (how to verify understanding?)\n\nZero-cost constraint: all tools must have free tiers.",
+      "description": "Generate educational curriculum content"
+    }
+  ],
+  
+  "contextProviders": [
+    {
+      "name": "diff",
+      "params": {}
+    },
+    {
+      "name": "open",
+      "params": {}
+    },
+    {
+      "name": "terminal",
+      "params": {}
+    },
+    {
+      "name": "problems",
+      "params": {}
+    },
+    {
+      "name": "folder",
+      "params": {}
+    },
+    {
+      "name": "codebase",
+      "params": {}
+    }
+  ],
+  
+  "slashCommands": [
+    {
+      "name": "edit",
+      "description": "Edit highlighted code"
+    },
+    {
+      "name": "comment",
+      "description": "Add comments to code"
+    },
+    {
+      "name": "share",
+      "description": "Export conversation"
+    },
+    {
+      "name": "cmd",
+      "description": "Generate shell command"
+    }
+  ],
+  
+  "allowAnonymousTelemetry": false,
+  
+  "embeddingsProvider": {
+    "provider": "gemini",
+    "model": "text-embedding-004",
+    "apiKey": "${GEMINI_API_KEY}"
+  },
+  
+  "systemMessage": "You are an AI assistant for 'The AI Orchestrator' bootcamp curriculum. This project teaches justice-impacted developers to become AI-augmented full-stack engineers.\n\nCore Principles:\n- Fundamentals first: Never skip CS concepts for AI shortcuts\n- Zero-cost mandate: Only recommend free-tier tools\n- Justice-focused: Accessible to second-chance learners\n- Portfolio over credentials: Working code proves mastery\n\nFollow .cursorrules strictly. Explain 'why' behind best practices. Use analogies from cooking/gaming/90s movies sparingly."
+}

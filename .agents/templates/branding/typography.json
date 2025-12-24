@@ -1,0 +1,129 @@
+{
+  "project": "The AI Orchestrator",
+  "typography": {
+    "primary_font": {
+      "name": "Inter",
+      "family": "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+      "weights": [400, 500, 600, 700],
+      "usage": "Body text, UI elements",
+      "source": "https://fonts.google.com/specimen/Inter"
+    },
+    "heading_font": {
+      "name": "Poppins",
+      "family": "'Poppins', 'Inter', sans-serif",
+      "weights": [600, 700, 800],
+      "usage": "Headings, titles, emphasis",
+      "source": "https://fonts.google.com/specimen/Poppins"
+    },
+    "monospace_font": {
+      "name": "JetBrains Mono",
+      "family": "'JetBrains Mono', 'Fira Code', 'Consolas', monospace",
+      "weights": [400, 500, 700],
+      "usage": "Code blocks, terminal output",
+      "source": "https://www.jetbrains.com/lp/mono/"
+    },
+    "scales": {
+      "desktop": {
+        "h1": "3rem",
+        "h2": "2.25rem",
+        "h3": "1.875rem",
+        "h4": "1.5rem",
+        "h5": "1.25rem",
+        "h6": "1rem",
+        "body": "1rem",
+        "small": "0.875rem",
+        "tiny": "0.75rem"
+      },
+      "mobile": {
+        "h1": "2rem",
+        "h2": "1.75rem",
+        "h3": "1.5rem",
+        "h4": "1.25rem",
+        "h5": "1.125rem",
+        "h6": "1rem",
+        "body": "1rem",
+        "small": "0.875rem",
+        "tiny": "0.75rem"
+      }
+    },
+    "line_heights": {
+      "tight": 1.25,
+      "normal": 1.5,
+      "relaxed": 1.75,
+      "loose": 2
+    },
+    "letter_spacing": {
+      "tight": "-0.025em",
+      "normal": "0em",
+      "wide": "0.025em",
+      "wider": "0.05em"
+    }
+  },
+  "text_styles": {
+    "heading_1": {
+      "font": "Poppins",
+      "size": "3rem",
+      "weight": 700,
+      "line_height": 1.25,
+      "letter_spacing": "-0.025em",
+      "color": "#1F2937"
+    },
+    "heading_2": {
+      "font": "Poppins",
+      "size": "2.25rem",
+      "weight": 700,
+      "line_height": 1.25,
+      "color": "#1F2937"
+    },
+    "heading_3": {
+      "font": "Poppins",
+      "size": "1.875rem",
+      "weight": 600,
+      "line_height": 1.375,
+      "color": "#1F2937"
+    },
+    "body_large": {
+      "font": "Inter",
+      "size": "1.125rem",
+      "weight": 400,
+      "line_height": 1.75,
+      "color": "#1F2937"
+    },
+    "body": {
+      "font": "Inter",
+      "size": "1rem",
+      "weight": 400,
+      "line_height": 1.5,
+      "color": "#1F2937"
+    },
+    "body_small": {
+      "font": "Inter",
+      "size": "0.875rem",
+      "weight": 400,
+      "line_height": 1.5,
+      "color": "#64748B"
+    },
+    "code": {
+      "font": "JetBrains Mono",
+      "size": "0.875rem",
+      "weight": 400,
+      "line_height": 1.75,
+      "color": "#D4D4D4",
+      "background": "#1E1E1E"
+    },
+    "button": {
+      "font": "Inter",
+      "size": "1rem",
+      "weight": 600,
+      "letter_spacing": "0.025em",
+      "text_transform": "none"
+    }
+  },
+  "usage_guidelines": {
+    "headings": "Use Poppins for all headings to create visual hierarchy",
+    "body": "Use Inter for all body text and UI elements",
+    "code": "Use JetBrains Mono for code examples and terminal output",
+    "emphasis": "Use weight 600-700 for emphasis, not italics",
+    "line_length": "Max 65-75 characters per line for readability"
+  }
+}

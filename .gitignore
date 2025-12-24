@@ -1,6 +1,21 @@
 # ============================================================================
 # The AI Orchestrator - Comprehensive .gitignore
 # ============================================================================
+#
+# PROTECTED PROPRIETARY CONFIGURATIONS:
+#   - .cursorrules (Cursor IDE project-specific rules)
+#   - .continue/ (Continue.dev AI assistant with API keys)
+#   - .cursor/ (Cursor IDE cache and settings)
+#   - .github/copilot-instructions.md (Custom Copilot guidelines)
+#   - mcp-servers.json (MCP server configurations)
+#   - .env (Environment variables and API keys)
+#
+# SHARED TEMPLATES (NOT IGNORED):
+#   - .agents/ (Source templates for IDE configuration)
+#   - .env.example (Template for environment variables)
+#   - .vscode/ (VS Code recommended settings - optional)
+#
+# ============================================================================
 
 # ============================================================================
 # PYTHON
@@ -78,6 +93,14 @@ __pypackages__/
 # Keep .env.example as template
 !.env.example
 
+# MCP Server configurations (may contain paths/tokens)
+**/mcp-servers.json
+.mcp/
+
+# AI Model cache directories
+.cache/models/
+.cache/embeddings/
+
 # ============================================================================
 # API KEYS & SECRETS (CRITICAL - NEVER COMMIT)
 # ============================================================================
@@ -106,11 +129,41 @@ __pypackages__/
 # IDE & EDITOR FILES
 # ============================================================================
 
-# Visual Studio Code
-.vscode/
+# Visual Studio Code (settings already committed - keep ignored)
+# .vscode/
 *.code-workspace
 
 # JetBrains IDEs
+.idea/
+
+# ============================================================================
+# PROPRIETARY AI AGENT CONFIGURATIONS (PROTECTED)
+# ============================================================================
+
+# Cursor IDE (proprietary rules and configs)
+.cursorrules
+.cursor/
+.cursorignore
+.cursorindexingignore
+mcp-servers.json
+
+# Continue.dev (contains API keys and custom prompts)
+.continue/
+.continue/**/*
+
+# GitHub Copilot (custom instructions)
+.github/copilot-instructions.md
+
+# Keep .agents/ source directory (templates) but protect active configs
+# .agents/  # Keep this for reference
+
+# Custom prompt templates (if proprietary)
+# docs/prompts/  # Uncomment to protect custom prompts
+
+# IDE-specific settings files
+*.code-workspace
+.devcontainer/
+.fleet/
 .idea/
 
 # Vim/Neovim
