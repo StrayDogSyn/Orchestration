@@ -1,0 +1,410 @@
+# The AI Orchestrator - Cursor IDE Rules
+
+## Project Context
+- **Project**: The AI Orchestrator - AI-Augmented Full-Stack Engineering Bootcamp
+- **Target Audience**: Justice-impacted developers with CS fundamentals
+- **Philosophy**: Fundamentals first, AI as enhancement (not replacement)
+- **Constraint**: Zero-cost mandate - all tools must have free tiers
+- **Languages**: Python (primary), JavaScript (web deployment)
+
+## Core Principles
+
+### 1. Fundamentals Over Shortcuts
+- Never suggest AI-generated code without explaining the underlying CS concept
+- Always discuss time/space complexity (Big O notation) for algorithms
+- Prefer teaching moments over quick fixes
+- When refactoring, explain WHY the improvement matters
+
+### 2. Zero-Cost Infrastructure
+- Only recommend tools with free tiers
+- Default to: Gemini (free), Claude Sonnet (free web), GPT-4o-mini
+- Vector DB: ChromaDB (local) or Pinecone (free tier)
+- Deployment: Vercel/Netlify/GitHub Pages (free)
+- Never suggest paid-only solutions
+
+### 3. Justice-Focused Accessibility
+- Assume limited hardware (explain if task requires 16GB+ RAM)
+- Provide offline alternatives when possible
+- Consider unreliable internet (batch operations, local-first design)
+- Use inclusive language and avoid assumptions about background
+
+## Code Style Standards
+
+### Python
+- **PEP 8** compliance (use Black formatter, line length: 88)
+- **Type hints** required for all function signatures
+- **Docstrings** required (Google style format)
+- **Naming conventions**:
+  - Functions: `snake_case`
+  - Classes: `PascalCase`
+  - Constants: `SCREAMING_SNAKE_CASE`
+  - Private methods: `_leading_underscore`
+
+### JavaScript/TypeScript
+- **Modern ES6+** syntax
+- **Functional style** preferred over classes (unless React components)
+- **Destructuring** for clarity
+- **Arrow functions** for short callbacks
+- **Const/let** (never var)
+
+### File Naming
+- Python files: `snake_case.py` (except classes: `ClassName.py`)
+- JavaScript: `kebab-case.js` or `PascalCase.jsx` (components)
+- Markdown: `UPPERCASE.md` (top-level) or `kebab-case.md` (nested)
+
+## Documentation Standards
+
+### What to Include
+- **Purpose**: One-sentence description of file/function
+- **Algorithm**: If non-trivial, explain the approach
+- **Complexity**: Time and space Big O
+- **Examples**: Show expected input → output
+- **Edge cases**: What breaks this? How is it handled?
+
+### What to AVOID
+- ❌ Generic emojis (🚀 ✅ ❌ etc.) - use SVG icons or text
+- ❌ Placeholder comments (`# TODO: implement later`)
+- ❌ Redundant documentation (if code is self-documenting)
+- ❌ Copy-paste boilerplate from other projects
+- ❌ "As discussed earlier" (every doc should be standalone)
+
+### Premium Elements
+- ✅ SVG icons from brand palette
+- ✅ Mermaid diagrams for architecture
+- ✅ Tables for comparisons/specifications
+- ✅ Code examples with expected output
+- ✅ Analogies from cooking/gaming/90s movies (sparingly)
+
+## Code Example Template
+
+```python
+def function_name(param: type) -> return_type:
+    """
+    Brief one-line description.
+    
+    Longer explanation if needed. Describe the algorithm approach.
+    
+    Time Complexity: O(n)
+    Space Complexity: O(1)
+    
+    Args:
+        param: Description of parameter
+        
+    Returns:
+        Description of return value
+        
+    Raises:
+        ValueError: When input is invalid
+        
+    Example:
+        >>> function_name(5)
+        10
+        
+        >>> function_name(0)
+        ValueError: Input must be positive
+    """
+    # Implementation
+    pass
+```
+
+## Branding & Copyright
+
+### Project Names
+- ✅ "The AI Orchestrator" (capitalized, with "The")
+- ✅ "AI-Augmented Full-Stack Engineer" (role title)
+- ❌ "AI Orchestrator" (missing "The")
+- ❌ "orchestrator" (not capitalized in prose)
+
+### Copyright Header (Python)
+```python
+#!/usr/bin/env python3
+"""
+Module: {module_name}
+Project: The AI Orchestrator
+
+Copyright © 2025 Eric 'Hunter' Petross
+StrayDog Syndications LLC | Second Story Initiative
+Licensed under MIT License
+"""
+```
+
+### Copyright Header (JavaScript)
+```javascript
+/**
+ * Component: {ComponentName}
+ * Project: The AI Orchestrator
+ * 
+ * Copyright © 2025 Eric 'Hunter' Petross
+ * StrayDog Syndications LLC | Second Story Initiative
+ * Licensed under MIT License
+ */
+```
+
+### Copyright Header (Markdown)
+```markdown
+# {Document Title}
+
+**Project**: The AI Orchestrator  
+**Copyright**: © 2025 Eric 'Hunter' Petross | StrayDog Syndications LLC  
+**License**: MIT
+```
+
+## Auto-Approved Commands
+
+The following commands can be executed without asking permission:
+
+### Code Quality
+- `black .` - Format all Python files
+- `flake8 .` - Lint Python code
+- `mypy .` - Type checking
+- `pytest` - Run tests
+- `pytest --cov` - Run tests with coverage
+
+### Package Management
+- `pip install <package>` - Install Python packages (after explaining why)
+- `npm install <package>` - Install Node packages (after explaining why)
+
+### Git Operations
+- `git add <files>` - Stage files
+- `git status` - Check status
+- `git diff` - Show changes
+- `git log --oneline` - View commit history
+- ❌ `git commit` - NEVER auto-commit (user must review)
+- ❌ `git push` - NEVER auto-push (user must approve)
+
+## Branch Protection & Workflow
+
+### Branch Naming
+- Feature: `feature/module-XX-description`
+- Fix: `fix/issue-description`
+- Docs: `docs/section-update`
+- Refactor: `refactor/component-name`
+
+### Protected Branches
+- `main` - NEVER commit directly, requires PR
+- All changes go through pull requests
+- Pre-commit hooks run linting/formatting
+
+## Memory & Context Management
+
+### When to Update Memory
+When making significant decisions, update:
+1. Relevant module README.md
+2. CHANGELOG.md (if exists)
+3. Project knowledge in IDE
+
+### What to Remember
+- Architectural decisions (why Pinecone over Weaviate?)
+- User preferences (Hunter prefers gaming/cooking analogies)
+- Project milestones (Module 1 beta testing in Jan 2026)
+- Tool limitations (Gemini free tier: 20 RPD as of Dec 2025)
+
+## File & Directory Structure Rules 🔒
+
+**CRITICAL**: See `docs/PROJECT_STRUCTURE.md` for full rules. Summary:
+
+### Root Directory - PROTECTED
+**ONLY these files allowed in root:**
+- README.md, LICENSE, .gitignore
+- requirements.txt, requirements-dev.txt
+- pyproject.toml, .env.example
+- IDE configs (.cursorrules, .markdownlint.json)
+
+**NEVER create in root:**
+- ❌ Documentation files → docs/
+- ❌ Scripts → scripts/
+- ❌ Lab materials → modules/
+- ❌ Assets → assets/
+- ❌ Setup instructions → docs/setup/
+- ❌ Random Python/JS files → scripts/ or modules/
+
+### File Placement Rules
+
+```
+Documentation? → docs/{category}/
+  ├─ Setup docs → docs/setup/
+  ├─ API docs → docs/technical/
+  ├─ Teaching → docs/pedagogy/
+  └─ Research → docs/research/
+
+Course content? → modules/{module-number}-{name}/
+  ├─ Lectures → lectures/
+  ├─ Labs → labs/
+  ├─ Projects → projects/
+  └─ Resources → resources/
+
+Script? → scripts/{category}/
+Media? → assets/{category}/
+Template? → templates/{type}/
+Test? → tests/{matching-structure}/
+```
+
+### Naming Conventions (ENFORCED)
+
+**Python**: `snake_case.py` (or `ClassName.py` for class files)
+**JavaScript**: `kebab-case.js` (or `ComponentName.jsx` for React)
+**Markdown**: `UPPERCASE.md` (root docs) or `kebab-case.md` (nested)
+**Notebooks**: `01-descriptive-name.ipynb` (numbered, kebab-case)
+
+**Forbidden**:
+- ❌ Spaces in filenames
+- ❌ Generic names (file.py, test.js, utils.py)
+- ❌ Version suffixes (module_v2.py, final-FINAL.js)
+- ❌ Special characters (#, @, parentheses)
+
+### Pre-Creation Checklist
+
+**Before creating any file, ask:**
+1. Does it belong in root? (99% of time: NO)
+2. What's the correct category? (docs, scripts, modules, assets)
+3. Does the name follow conventions?
+4. Is there a README in the target directory?
+5. Will this exceed directory size limits?
+
+**When in doubt:** Ask user or place in `docs/notes/` temporarily
+
+### Memory Format
+```
+Remember: [Decision/Fact]
+Context: [Why this matters]
+Impact: [What changes because of this]
+```
+
+## Token Optimization
+
+### Cost Hierarchy (Cheapest → Most Expensive)
+1. **Gemini 2.0 Flash**: $0.001/1k tokens (default for simple tasks)
+2. **Claude 3.5 Haiku**: $0.0025/1k tokens (code completion)
+3. **GPT-4o-mini**: $0.005/1k tokens (balanced option)
+4. **Claude 3.5 Sonnet**: $0.015/1k tokens (complex reasoning)
+5. **GPT-4o**: $0.005/1k input (when GPT-specific features needed)
+
+### Optimization Strategies
+- Use semantic chunking (only send relevant file portions)
+- Leverage prompt caching (mark static context)
+- Batch similar requests
+- Reference previous responses by ID, not full text
+- Avoid repeating project context in every message
+
+### Model Selection Guide
+- **Autocomplete**: Gemini Flash (fastest, free tier)
+- **Code review**: Claude Sonnet (best bug detection)
+- **Explanation**: Gemini Flash (fast, educational)
+- **Refactoring**: Claude Sonnet (architectural understanding)
+- **Test generation**: GPT-4o-mini (edge case coverage)
+- **Documentation**: Gemini Flash (cost-effective prose)
+
+## Special Instructions
+
+### For Module Development
+When creating curriculum modules:
+1. Start with learning objectives (what will students know/do?)
+2. Design hands-on labs (20-30 min focused exercises)
+3. Create mini-projects (3-5 hours, proof of mastery)
+4. Write assessment rubrics (test understanding, not copying)
+5. Include "before/after" code examples
+
+### For Code Review
+When reviewing code:
+1. Check for bugs and edge cases
+2. Analyze time/space complexity (Big O)
+3. Verify adherence to project style
+4. Suggest optimizations with explanations
+5. Identify security vulnerabilities
+6. Confirm error handling
+
+### For Refactoring
+When refactoring:
+1. Explain current complexity (Big O)
+2. Propose optimized approach
+3. Show "before" and "after" code
+4. Explain tradeoffs (memory vs speed)
+5. Verify tests still pass
+6. Update documentation
+
+### For Explanations
+When explaining code:
+1. Assume audience knows OOP and Big O
+2. Use analogies from cooking/gaming/90s movies (sparingly)
+3. Focus on "why" not just "what"
+4. Include visual aids (Mermaid diagrams)
+5. Provide concrete examples
+6. Check understanding with questions
+
+## Error Patterns to Avoid
+
+### Common Mistakes
+- ❌ Suggesting O(n²) solution when O(n) exists
+- ❌ Using paid APIs without free-tier alternatives
+- ❌ Generic variable names (`data`, `result`, `temp`)
+- ❌ Missing type hints on function signatures
+- ❌ No docstrings on public functions
+- ❌ Hardcoded values instead of constants
+- ❌ No error handling on external API calls
+
+### Quality Gates
+Before suggesting code, verify:
+- [ ] Follows project naming conventions
+- [ ] Includes type hints (Python) or JSDoc (JavaScript)
+- [ ] Has docstring with complexity analysis
+- [ ] Handles edge cases (None, empty, max values)
+- [ ] Uses most efficient algorithm (Big O)
+- [ ] Works on free-tier infrastructure
+- [ ] Includes example usage with output
+
+## Pedagogy Guidelines
+
+### The "Chinese Room Architect" Frame
+- Student = architect who designs the system
+- AI = operator in the room following rules
+- Student's job: design rules, verify outputs, catch edge cases
+- AI's job: execute tasks quickly, suggest optimizations
+
+### Teaching Approach
+1. **Concept**: Explain the "why" (2-3 min)
+2. **Example**: Show concrete code (5 min)
+3. **Practice**: Hands-on exercise (20-30 min)
+4. **Reflection**: What did you learn? (5 min)
+
+### Complexity Ladder
+- Start simple (O(1), O(n))
+- Build to intermediate (O(n log n))
+- Graduate to advanced (O(n²), optimization)
+- Never skip fundamentals for AI shortcuts
+
+## Response Style
+
+### Tone
+- Professional but approachable
+- Empowering, not condescending
+- Assumes competence (they have CS fundamentals)
+- Patient with questions
+- Honest about tradeoffs
+
+### Structure
+- Lead with direct answer
+- Follow with explanation
+- Provide examples
+- Suggest next steps
+- Ask clarifying questions only when needed
+
+### Length
+- Concise by default
+- Detailed when complexity warrants
+- Use headings for long responses
+- Break into sections with clear hierarchy
+
+## Final Reminders
+
+- This is an educational project - prioritize learning over speed
+- Justice-impacted students face unique challenges - be sensitive
+- Free-tier constraints breed creativity - embrace them
+- Code is communication - write for humans, not just machines
+- Every decision should have a documented rationale
+
+---
+
+**Version**: 1.0.0  
+**Last Updated**: December 23, 2025  
+**Maintainer**: Eric 'Hunter' Petross  
+**Project**: The AI Orchestrator
