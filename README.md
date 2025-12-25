@@ -13,7 +13,7 @@
 <br>
 
 <!-- Premium Status Badges - StrayDog Color Palette -->
-[![License](https://img.shields.io/badge/License-MIT-355E3B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Proprietary-355E3B?style=for-the-badge&logo=shield&logoColor=white)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-In_Development-1a1a2e?style=for-the-badge&logo=statuspage&logoColor=white)]()
 [![Version](https://img.shields.io/badge/Version-0.1.0--beta-9b59b6?style=for-the-badge&logo=semver&logoColor=white)]()
 [![Cost](https://img.shields.io/badge/Cost-$0_Free_Tier-355E3B?style=for-the-badge&logo=cashapp&logoColor=white)]()
@@ -49,7 +49,7 @@
 | [Development Roadmap](#-development-roadmap) | Timeline and milestones |
 | [Second-Chance Focus](#-second-chance-employment-focus) | Our commitment to justice reform |
 | [Contributing](#-contributing) | How to get involved |
-| [License](#-license) | MIT License terms |
+| [License](#-license) | Proprietary license terms |
 | [Contact & Support](#-contact--support) | Reach out to us |
 | [Acknowledgments](#-acknowledgments) | Credits and inspiration |
 | [Intellectual Property](#-intellectual-property--branding) | Copyright and usage |
@@ -365,7 +365,7 @@ orchestration/
 ├── README.md                 # This file
 ├── QUICKSTART.md             # Quick start guide
 ├── CONTRIBUTING.md           # Contribution guidelines
-├── LICENSE                   # MIT License
+├── LICENSE                   # Proprietary License (All Rights Reserved)
 ├── .env.example              # Environment template
 ├── requirements.txt          # Python dependencies
 │
@@ -500,11 +500,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 ## <img src="https://api.iconify.design/tabler/license.svg?color=%23355E3B" width="28" align="center">&nbsp; License
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-This project is licensed under the **MIT License** - see [LICENSE](LICENSE) for details.
+This project is protected under a **Proprietary License** - see [LICENSE](LICENSE) for complete terms.
 
 ```text
-MIT License - Free to use, modify, and distribute for educational purposes.
-Attribution appreciated but not required.
+Proprietary License - All Rights Reserved
+Unauthorized copying, distribution, or commercialization is prohibited.
+Contact for licensing inquiries: eHunter@straydog-secondstory.org
 ```
 
 ---
@@ -619,38 +620,39 @@ This curriculum, including all original content, methodology, structure, and ped
 - Course branding, logos, and visual identity
 - Project names and descriptive materials
 
-### Open Source License
+### Proprietary License
 
-While the curriculum is copyrighted, it is licensed under the **MIT License** for educational use:
+This curriculum is proprietary and confidential intellectual property. See [LICENSE](LICENSE) for complete terms.
 
-| Permission |
-|:-----------|
-| Free to use for personal learning |
-| Free to fork and adapt for educational purposes |
-| Free to contribute improvements back to the community |
-| Attribution required when redistributing |
-| Commercial use of branding requires permission |
+| Restrictions |
+|:-------------|
+| All rights reserved by Eric "Hunter" Petross and StrayDog Syndications LLC |
+| Unauthorized use, copying, modification, or distribution prohibited |
+| No commercial use without explicit written license agreement |
+| Access to this repository does not grant usage rights |
+| Contact required for any licensing inquiries |
 
 See [LICENSE](LICENSE) for complete terms.
 
-### Usage Guidelines
+### Usage Restrictions
 
-**You MAY:**
+**⚠️ IMPORTANT NOTICE:**
 
-- Use this curriculum for personal education
-- Fork and adapt for your own learning
-- Contribute back to this repository
-- Share and recommend to others
-- Use in non-commercial educational contexts with attribution
+This is proprietary educational content under active development for institutional sale.
 
 **You MAY NOT:**
 
-- Remove or obscure copyright notices
-- Use StrayDog Syndications LLC or Second Story Initiative branding commercially without permission
-- Present this work as your own original creation
-- Sell or commercialize without explicit written permission
+- Use, copy, modify, or distribute this curriculum without written authorization
+- Create derivative works or competing products
+- Remove or alter copyright notices
+- Share or reproduce any part of this content
+- Access or use this material for commercial purposes
 
-**For commercial licensing inquiries**: [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org)
+**Authorized Use:**
+
+Any use requires explicit written permission from the copyright holder.
+
+**For licensing inquiries or permissions**: [eHunter@straydog-secondstory.org](mailto:eHunter@straydog-secondstory.org)
 
 ---
 

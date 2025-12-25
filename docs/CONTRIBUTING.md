@@ -10,7 +10,7 @@ Thank you for your interest in contributing to The AI Orchestrator! This project
 
 ### ©️ Copyright Notice
 
-This curriculum is © 2025 Eric "Hunter" Petross | StrayDog Syndications LLC | Second Story Initiative. By contributing, you agree that your contributions will be licensed under the same MIT License. Please see [LICENSE](LICENSE) for details.
+This curriculum is © 2025 Eric "Hunter" Petross | StrayDog Syndications LLC | Second Story Initiative. This is proprietary educational content. By contributing, you agree that your contributions become part of the proprietary work and will be subject to the same license terms. Please see [LICENSE](LICENSE) for details.
 
 ## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/clipboard-list.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> Table of Contents
 
@@ -372,7 +372,7 @@ Contributors are recognized in:
 
 ## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/file-text.svg" width="20" style="filter: invert(28%) sepia(23%) saturate(1377%) hue-rotate(94deg) brightness(96%) contrast(88%);" /> License
 
-By contributing, you agree that your contributions will be licensed under the MIT License.
+By contributing, you agree that your contributions become part of the proprietary work owned by Eric "Hunter" Petross and StrayDog Syndications LLC, subject to the terms in the [LICENSE](LICENSE) file.
 
 ---
 
