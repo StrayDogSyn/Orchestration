@@ -1,111 +1,18 @@
-# ============================================================================
-# The AI Orchestrator - Core Dependencies
-# ============================================================================
-#
-# All packages have free tiers or are completely free.
-# Install with: pip install -r requirements.txt
-#
-# ============================================================================
-
-# ============================================================================
-# LLM APIs (All Free Tier Compatible)
-# ============================================================================
-
-# Anthropic Claude API
-# Free tier via claude.ai, API access with account
-anthropic>=0.18.0
-
-# OpenAI GPT API
-# $5 free credit on signup
-openai>=1.12.0
-
-# Google Generative AI (Gemini)
-# 60 requests/min free tier
-google-generativeai>=0.3.0
-
-# ============================================================================
-# ENVIRONMENT MANAGEMENT
-# ============================================================================
-
-# Load environment variables from .env files
-python-dotenv>=1.0.0
-
-# ============================================================================
-# HTTP & NETWORKING
-# ============================================================================
-
-# HTTP requests
+﻿# Core API Clients
+anthropic>=0.18.1
+google-generativeai>=0.3.2
+openai>=1.10.0
 requests>=2.31.0
 
-# Async HTTP client
-httpx>=0.26.0
+# Data Validation
+pydantic>=2.5.0
 
-# ============================================================================
-# VECTOR DATABASE (Free/Local)
-# ============================================================================
+# Utilities
+python-dotenv>=1.0.0
 
-# ChromaDB - local vector database
-# Unlimited local usage
+# Optional: RAG Support
 chromadb>=0.4.22
+sentence-transformers>=2.2.2
 
-# ============================================================================
-# DATA PROCESSING
-# ============================================================================
-
-# Data manipulation
-pandas>=2.2.0
-
-# Numerical computing
-numpy>=1.26.0
-
-# ============================================================================
-# INTERACTIVE DEVELOPMENT
-# ============================================================================
-
-# Jupyter notebooks
-jupyter>=1.0.0
-
-# Enhanced Python REPL
-ipython>=8.20.0
-
-# ============================================================================
-# TESTING
-# ============================================================================
-
-# Testing framework
-pytest>=8.0.0
-
-# Coverage reporting
-pytest-cov>=4.1.0
-
-# Async test support
-pytest-asyncio>=0.23.0
-
-# ============================================================================
-# CODE QUALITY
-# ============================================================================
-
-# Code formatter
-black>=24.1.0
-
-# Linter
-flake8>=7.0.0
-
-# Type checker
-mypy>=1.8.0
-
-# ============================================================================
-# OPTIONAL: ADVANCED MODULES
-# ============================================================================
-
-# Pinecone vector database (free tier: 100K vectors)
-# Uncomment when needed for Module 4
-# pinecone-client>=3.0.0
-
-# MongoDB driver (for Atlas free tier)
-# Uncomment when needed for Module 5
-# pymongo>=4.6.0
-
-# Supabase client
-# Uncomment when needed for Module 5
-# supabase>=2.0.0
+# Development
+pytest>=7.4.0
