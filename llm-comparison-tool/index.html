@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LLM Comparison Tool | GLM 4.7 vs Gemini</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app-container">
+      <!-- Header -->
+      <header>
+        <div class="brand">
+          <h1>LLM <span class="gradient-text">Comparison</span> Tool</h1>
+          <p class="subtitle">StrayDog Syndications • Orchestration Module</p>
+        </div>
+        <button id="openModalBtn" class="btn btn-secondary">How to Use</button>
+      </header>
+
+      <!-- Navigation Stepper -->
+      <div class="stepper" id="stepper">
+        <!-- Injected by JS -->
+      </div>
+
+      <!-- Main Content Area -->
+      <main id="app">
+        <!-- Injected by JS -->
+      </main>
+    </div>
+
+    <!-- Instructions Modal -->
+    <div class="modal" id="infoModal">
+      <div class="modal-content">
+        <button class="close-modal" id="closeModalBtn">&times;</button>
+        <h2>How to Use This Tool</h2>
+        <div class="rubric-section" style="margin-top: 1rem">
+          <ol
+            style="
+              margin-left: 1.5rem;
+              display: flex;
+              flex-direction: column;
+              gap: 0.5rem;
+            "
+          >
+            <li>
+              <strong>Setup:</strong> Ensure local LLM (GLM 4.7) and cloud model
+              (Gemini) are ready.
+            </li>
+            <li>
+              <strong>Copy Prompt:</strong> Use the "Copy Prompt" button for
+              each test scenario.
+            </li>
+            <li>
+              <strong>Generate:</strong> Paste the prompt into both models
+              individually.
+            </li>
+            <li>
+              <strong>Compare:</strong> Paste responses back here side-by-side.
+            </li>
+            <li>
+              <strong>Score:</strong> Use the checklist to score GLM 4.7's
+              performance against the rubric.
+            </li>
+            <li>
+              <strong>Analyze:</strong> Check the final dashboard for the
+              verdict.
+            </li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <!-- Logic -->
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
